@@ -17,16 +17,22 @@ $/widec$
 ==Butterfly effect==
 - fouten / onzekerheden kunnen leiden tot propageren van verandering in het systeem
 - ook een mechanisme in taalverandering -> fouten en beperkingen in acquisitie, productie etc.
+- fundamenteel onvoorspelbaar -> gaat in tegen *LaPlace daemon*
 
 chaos uit een deterministisch systeem
 - simpele instructies kunnen leiden tot complex gedrag
 - echo in agentgebaseerde simulaties -> simpel lokaal gedrag kan leiden tot complexe veranderingen op systeemniveau
+- verwijt ABM: het is heel simpel, mechanistisch en deterministisch
+	- maar: er zijn niet veel regels nodig om complex gedrag te veroorzaken!
+	- bv. two bodies (twee manen)
 
 ## Soorten systemen
 
 $acco$
 ==periodisch== systeem
 - systeem dat zichzelf altijd herhaalt
+- cyclische processen: grammaticalisatie, bleaching ... keer op keer / Jespersen cycle
+	- maar: eerder een spiraal dan een echte cyclus
 
 ==aperiodisch== systeem
 - systeem dat nooit een _steady state_ heeft
@@ -59,6 +65,7 @@ $widec$
 $/widec$
 
 - een bepaalde innovatie verspreidt zich volgens een S-curve naargelang meer en meer aandeel van de populatie een bepaalde vorm gebruikt
+- hier: continue functie!
 $/gallery port$
 
 $gallery port$
@@ -71,6 +78,7 @@ $/widec$
 - chaotische systemen kunnen oscilleren tussen verschillende equilibria
 - dit is, voor zover ik weet, **niet hoe taalverandering meestal werkt**
 	- eerder 'eenrichtingsverkeer' -> bv. computersimulatie Landsbergen over unidirectionaliteit van semantische verandering
+- bv. in S-curve: óók bifurcaties te zien bovenaan een S-curve
 $/gallery port$
 
 $gallery port$
