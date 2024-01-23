@@ -1564,9 +1564,802 @@ $down
 
 **generalised constructions** display a **uniform representation of all grammatical knowledge in the speaker's mind**
 
-$result everything from words to the most general
-syntactic and semantic rules can be represented as constructions
+$result everything from words to the most general syntactic and semantic rules can be represented as constructions
 $/widec$
+
+#### The syntax-lexicon continuum
+
+[ The syntax-lexicon continuum ]
+|construction type|traditional name|examples|
+|---|---|---|
+|complex and (mostly) schematic|syntax|[<span class="feature">sbj</span> _be_-<span class="feature">tns</span> <span class="feature">verb</span>-_en_ _by_ <span class="feature">obl</span>]|
+|complex and (mostly) specific|idiom|[_pull_-<span class="feature">tns</span> <span class="feature">NP</span>-_’s leg_]|
+|complex but bound|morphology|[<span class="feature">noun</span>-_s_] [<span class="feature">verb-tns</span>]|
+|atomic and schematic|syntactic category|[<span class="feature">dem</span>], [<span class="feature">adj</span>]|
+|atomic and specific|word/lexicon|[_this_], [_green_]|
+
+#### Construction grammar's appeal
+
+great attraction of construction grammar
+- provides a **uniform model** of grammatical representation
+- also: **captures a broader range of empirical phenomena** than componential models of grammar
+- => "a structured inventory of conventional linguistic units" (Langacker 1987: 57)
+
+$p=472$
+
+### Syntactic and semantic structure: the anatomy of a construction
+
+#### How is a construction built?
+
+constructions as ==symbolic== units ($see $down)
+- _arbitrary_ pairings between **form** and **meaning**
+- even the most general syntactic constructions have corresponding *general* rules of semantic interpretation
+	- e.g. [ NP VP ] has a general semantic interpretation (nvda.)
+
+$gallery port$
+**The symbolic structure of a construction**
+
+$widec$
+![Image](img$vmlg)
+$/widec$
+$/gallery port$
+$/acco$
+
+$acco$
+'meaning' in construction grammar
+- represents **all conventionalised aspects of a construction's function**
+- so: **properties of the situation described** (denotation, nvda) by the utterance, but also properties of the **discourse**  and **pragmatics**
+
+$example$
+**Examples**
+
+- the use of the definite article to indicate that the object referred to is known to both speaker and hearer) 
+- the use of a construction such as _What a beautiful cat!_ to convey the speaker’s surprise
+$/example$
+
+#### Comparison with componential grammar
+
+$p=473-475$
+
+$gallery$
+[ Componential grammar <-> construction grammar ]
+|componential syntactic theories|construction grammar|
+|---|---|
+|symbolic link between form and conventional meaning is **external** (i.e. linking rules)|symbolic link between form and conventional meaning is **internal** to a construction|
+|![Image](img$mjfi)|![Image](img$sfrp)|\
+|(p. 473)|(p. 474)|
+|various syntactic structures are organised **independently** of the corresponding semantic structures|basic linguistic units are **symbolic**, and **_organised_ as symbolic units**|
+|basic internal structure|complex internal structure|
+$/gallery$
+
+$example$
+***Heather sings***
+
+$gallery$
+![Image](img$k2uz)
+
+- similar structures, but the construction grammar representation is **symbolic**
+- box notation in (b) is a notational variant of the bracket notation used in (a)
+- => both the generative grammatical representation and the construction grammar representation **share the fundamental meronomic (partwhole) structure of grammatical units**
+	- the sentence _Heather sings_ is made up of two parts, the Subject _Heather_ and the Predicate _sing_
+$/gallery$
+
+$info$
+The brackets in (a) are labeled with syntactic category labels, while the
+corresponding boxes in the syntactic structure of figure 18.5b are not labeled. This
+does not mean that the boxed structures in figure 18.5b are all of the same syntactic
+type. Construction grammarians, of course, assume that syntactic units belong to a
+variety of different syntactic categories. The boxes have been left unlabeled because
+the nature of those categories is one issue on which different theories of construction grammar diverge. That is, we may ask the following question of different
+construction grammar theories:
+
+_What is the status of the categories of the syntactic elements in construction
+grammar given the existence of constructions?_
+$/info$
+$/example$
+
+$p=474$
+
+#### The internal structure of a construction
+
+$acco$
+==elements==
+- the parts of the **syntactic** structure
+
+==components==
+- the parts of the **semantic** structure
+$/acco$
+
+$result individual symbolic links
+- the correspondence between the form and the meaning of a construction
+- joins the **elements** and **components** of a construction
+- => form a ==**unit**==
+
+$result whole symbolic link
+- joins the **whole syntactic structure** to the **whole semantic structure**
+- = middle dotted line in $see $down
+
+$result semantic relation
+- the relation between the two syntactic elements
+- 
+
+$result semantic relation
+- the relation between the two semantic components
+- in this case: _event-participant relation_
+
+$gallery port$
+$widec$
+![Image](img$f05h)
+$/widec$
+$/gallery port$
+
+$reader$
+This symbolic link (the whole symbolic link) is the construction grammar
+representation of the fact that the syntactic structure of **the Intransitive construction 
+symbolizes a unary-valency predicate-argument semantic structure**. Each
+element plus corresponding component is a part of the whole construction
+(form + meaning) as well. We will use the term **'unit'** to describe a symbolic part
+(element + component) of a construction. That is, **the construction as a symbolic
+whole is made up of symbolic units as parts**. The symbolic units of _Heather sings_
+are not indicated in figure 18.5b for clarity’s sake; but all three types of parts of
+constructions are illustrated in figure 18.6 ($see $down) (see Langacker 1987: 84, figure 2.8a).
+(Figure 18.6 suppresses links between parts of the construction for clarity.)
+$/reader$
+
+$p=476$
+
+$gallery port$
+**Elements, components, and units of a construction**
+
+$widec$
+![Image](img$dxtz)
+$/widec$
+$/gallery port$
+
+$p=475-476$
+
+$reader$
+An important theoretical distinction must be made regarding the internal
+structure of constructions (Kay 1997). The analysis of syntactic structure is unfortunately confounded by an ambiguity in much traditional syntactic terminology. We can illustrate this with the example of the term **‘‘Subject’**’ in the Intransitive Clause construction in figure 18.6 illustrated once again by the sentence
+Heather sings. The term ‘‘Subject’’ can mean one of two things. It can describe the
+**role of a particular element of the construction**, that is, a meronomic relation
+between the element labeled ‘‘Subject’’ in the Intransitive construction and the
+Intransitive construction as a whole. This is the sense in which one says that
+Heather is the Subject of the Intransitive clause _Heather sings_. This part-whole
+relation is represented implicitly in (10) by the nesting of the box for _Heather_ inside
+the box for the whole construction _Heather sings_.
+
+$gallery$
+![Image](img$lx9k)
+$/gallery$
+
+The Subject role defines a **grammatical category**. But **the term ‘‘Subject’’ can
+also describe a syntactic relation between one element of the construction—the
+Subject—and another element of the construction—the Verb**. This is the sense in
+which one says that _Heather_ is the Subject of the Verb _sings_. In other words, **the term
+‘‘Subject’’ confounds two different types of relations in a construction: the role of the
+part in the whole and the relation of one part to another part**. The difference between
+the two is illustrated in (11):
+
+$gallery port$
+$widec$
+![Image](img$9k9v)
+$/widec$
+$/gallery port$
+$/reader$
+
+$p=476$
+
+### The organisation of constructions in a construction grammar
+
+organisation of constructions
+- a **structured inventory** of a speaker's knowledge of conventions of their language (Langacker 1987: 63–76)
+- represented as a **taxonomic network** of constructions -> constructions are **nodes**
+
+$p=477$
+
+$reader$
+**Any** construction with **unique idiosyncratic morphological, syntactic, lexical,
+semantic, pragmatic, or discourse-functional properties** must be represented as an
+**independent node in the constructional network** in order to capture a speaker’s
+knowledge of their language.
+$/reader$
+
+$wide$
+- => **any quirk** of a construction is sufficient to represent that construction as an **independent node**
+$/wide$
+
+$example$
+*kick the bucket*
+
+- construction: [ <span class="feature">sbj</span> _kick the bucket_ ]
+- represented as an **independent node** -> it is **semantically idiosyncratic**
+$/example$
+
+$example$
+*kick*
+
+- construction: [ <span class="feature">sbj</span> _kick_ <span class="feature">obj</span>
+- represented as an **independent node** -> to specify its **argument linking pattern**
+$/example$
+
+$example$
+transitive construction
+
+- construction [ <span class="feature">sbj</span> <span class="feature">TrVerb</span> <span class="feature">obj</span> ]
+- represented as an **independent node**
+	- this is how construction grammar
+represents the transitive clause that is described by phrase structure rules in Generative Grammar, such as `S -> NP VP` and `VP -> V NP`
+$/example$
+
+$reader$
+Of course, **_kick the bucket_ has the same argument structure pattern as ordinary
+transitive uses of _kick_**, and ordinary transitive uses of _kick_ follow the 
+same argument structure pattern as any transitive verb phrase. Each construction is simply an
+instance of the more schematic construction(s) in the chain [_kick the bucket_] – [_kick_
+<span class="feature">Obj</span>] – [<span class="feature">TrVerb obj</span>] (on schematicity, see Tuggy, this volume, chapter 4). 
+$/reader$
+
+$gallery port$
+$widec$
+![Image](img$n9hj)
+$/widec$
+$/gallery port$
+
+$p=477-478$
+
+$reader$
+However, grammatical constructions do not form a strict taxonomic hierarchy. 
+One of the simplifications in the hierarchy of constructions in (12) is the 
+**exclusion of Tense-Aspect-Mood-Negation marking**, expressed by **Auxiliaries** and
+**Verbal suffixes**. If those parts of an utterance are included, then any construction in
+the hierarchy in (12) has **multiple parents**. For example, the sentence [_I didn’t sleep_]
+is an **instantiation of both the Intransitive Verb construction and the Negative
+construction**, as illustrated in (13):
+
+$gallery port$
+$widec$
+![Image](img$ibhc)
+$/widec$
+$/gallery port$
+
+The sentence [_I didn’t sleep_] thus has **multiple parents** in the taxonomy of constructions 
+to which it belongs. This is a consequence of each construction being a
+**_partial specification_ of the grammatical structure of its daughter construction(s)**.
+For example, the Negation construction only specifies the structure associated with
+the Subject, Verb, and Auxiliary; it does not specify anything about a Verb’s Object
+(if it has one), and so there is no representation of the Object in the Negation
+construction in (13).
+$/reader$
+
+$p=478$
+
+partial specification
+- the specification of only *some* parts in a construction
+- can be combined with multiple inheritance to resolve to fully / further specified constructions
+
+$reader$
+For example, the Ditransitive construction [<span class="feature">Sbj DitrVerb Obj1 Obj2</span>],
+as in _He gave her a book_, only specifies the predicate and the linkings to its arguments. 
+It does not specify the order of elements, which can be different in, for example, 
+the Cleft construction, as in _It was a book that he gave her_. Nor does the
+Ditransitive construction specify the presence or position of other elements in an
+utterance, such as Modal Auxiliaries or Negation, whether in a Declarative Sentence
+(where they are preverbal, as in 14a) or an Interrogative Sentence 
+(where the Auxiliary precedes the Subject, as in 14b):
+
+1. He _won’t_ give her the book.
+1. _Wouldn’t_ he give her the book?
+
+Hence **any particular utterance’s structure is specified by a number of distinct schematic constructions**. 
+Conversely, a schematic construction abstracts away from
+the unspecified structural aspects of the class of utterances it describes. The model
+of construction grammar conforms to Langacker’s content requirement for a grammar: 
+the only grammatical entities that are posited in the theory are grammatical
+units—specifically, symbolic units—and schematizations of those units.
+$/reader$
+
+#### Beyond taxonomic relations
+
+relations between constructions
+- can be taxonomic, but also other relations!
+- (further unimportant)
+
+$p=479$
+
+### Some current theories of construction grammar
+
+----
+$widec$
+All of the theories conform to the three essential principles of construction
+grammar described in sections 2–4:
+$/widec$
+----
+
+1. the **independent** existence of **constructions as symbolic units**
+2. the uniform **symbolic representation** of grammatical information
+3. the **taxonomic organization of constructions** in a grammar
+
+$wide$
+$down
+
+the different theories tend
+to **focus on different issues**, representing their distinctive positions vis-à-vis the
+other theories
+$/wide$
+
+$result ==Construction Grammar==
+- explores **syntactic relations** in detail
+
+$result ==Lakoff/Goldberg model==
+- focuses more on **(non-classical) relations** between constructions
+
+$result ==Cognitive Grammar==
+- focuses on **semantic categories** and **relations**
+
+$result ==Radical Construction Grammar==
+- focuses on **syntactic categories** in a **non-reductionist model**
+
+#### Construction Grammar (Fillmore, Kay, and collaborators)
+
+##### General information
+
+Construction Grammar (in capitals)
+- developed by Fillmore, Kay,
+and collaborators (Fillmore and Kay 1993; Kay and Fillmore 1999; Fillmore
+et al., forthcoming)
+- the variant of construction grammar (lower case) that **most closely resembles certain formalist theories**
+	- i.e. HPSG
+
+$p=480$
+
+$reader$
+In Construction Grammar, all grammatical properties—phonological, syntactic, 
+semantic, and so on—are uniformly represented as **features with values**, such
+as [cat v] (syntactic category is Verb) and [gf $negsubj] (grammatical function is not
+Subject). The value of a feature may itself be a **list of features with their own values**;
+these are more generally called ==**_feature structures_**==.
+$/reader$
+
+$info$
+The Verb Phrase construction may be represented by **brackets around the features**
+and **feature structures**, as in (15), or by an equivalent **‘‘box’’ notation**, as in (16); we
+will use the box notation in the remainder of this chapter.
+
+$columns$
+$avs$
+cat
+: v
+
+$avs$
+role
+: head
+
+lex
+: \+
+$/avs$
+
+$avs$
+role
+: filler
+
+loc
+: \+
+
+gf
+: $neg subj
+$/avs$
+
++
+$/avs$
+
+$gallery$
+![Image](img$jpht)
+$/gallery$
+$/columns$
+
+$reader$
+1. The **first box** specifies that **the first constituent of the VP construction is its _head_** and that it
+must be **lexical**.
+	- For example, in _found her bracelet_, the first constituent is the head
+of the VP, and it is a word, not a larger constituent.
+2. The feature-value pair [cat v] above it is actually a simplification of a more complex feature structure (Kay and
+Fillmore 1999: 9, note 13), which specifies that **the syntactic category of the head of
+the VP**, in this case _found_, must be **‘‘Verb.’’**
+3. The **second box** specifies the **complements**, if any, of the Verb.
+4. The + (‘‘Kleene plus’’) following the second box
+indicates that **there may be one or more complements, or zero, in the VP.** 
+
+In the VP _found her bracelet_, _her bracelet_ is the one and only complement. 
+In the VP construction, the complements are given the role value ‘‘filler.’’ 
+
+5. The feature **[loc(al) + ] indicates that the complement is not extracted out of the VP**. 
+	- An example of an extracted, [loc – ], complement of _find_ would be the question word _what_ in the
+question _What did he find?_
+$/reader$
+$/info$
+
+##### syn and sem
+
+minimal units
+- words
+- (in fact, morphemes, but we will ignore those for now)
+
+$result each unit
+- has syntactic features (under [syn]) -- under ss / synsem
+- has semantic features (under [sem]) -- under ss / synsem
+- has phonological features (under [phon]) -- if substantive
+
+$p=481$
+
+$widec$
+The basic symbolic structure for Construction Grammar:
+$/widec$
+
+$avs$
+ss
+: $avs$
+	syn
+	: $avs$
+		...
+		$/avs$
+	
+	sem
+	: $avs$
+		...
+		$/avs$
+	$/avs$
+
+phon
+: < ... >
+$/avs$
+
+##### What is the status of the categories of the syntactic elements in construction grammar given the existence of constructions?
+
+basic units in CxG
+- primitive, atomic units
+
+$widec$
+$down
+$/widec$
+
+$result complex units
+- **derived** from the atomic units such as [cat v] and [gf sbj]
+
+$wide$
+- => reductionist model of syntactic structure
+$/wide$
+
+use of constructions
+- contain **syntactic** and **semantic information** that is **not found in the units of the construction that make up its parts**
+
+$example$
+**WXDY construction (Kay and Fillmore 1999)**
+
+- construction: [_What’s_ X _doing_ Y]
+- example: _What’s this cat doing in here?_
+
+- [The construction] possesses a number of
+**syntactic and semantic properties not derivable from other constructions or the
+words in the construction**. 
+	- Its distinctive semantic property is the **presupposition
+of incongruity** of the event, which they argue cannot be derived by **conversational
+implicature** (Kay and Fillmore 1999: 4). 
+	- The WXDY construction is found only with the auxiliary _be_ and the main verb _do_ in the progressive (yet the progressive
+form here can be used with stative predicates) and excludes negation of _do_ or _be_, all
+properties not predictable from the words, related constructions, or the constructional meaning (Kay and Fillmore 1999: 4–7).
+$/example$
+
+----
+$widec$
+Assembly of a construction
+$/widec$
+----
+
+$widec$
+$down
+
+three different sets of features
+$/widec$
+
+[ role ]
+- used to represent the **role** of the syntactic element in the whole
+- associated with each part of a complex construction
+- defines syntactic roles such as [mod](ifier), [filler], and [head]
+
+$example$
+For instance, the Subject-Predicate construction, as in Hannah sings, has the roles [head] for sings and [filler] for Hannah (Kay
+and Fillmore 1999: 13). These roles, like the categories Verb and Subject, are defined
+independently of the constructions in which they occur.
+$/example$
+
+##### What sorts of syntactic relations are posited?
+
+$widec$
+I'm going to skip all these theories, since they go reasonably in depth and this is not needed
+$/widec$
+
+$p=499$
+
+### Construction grammar and the usage-based model
+
+usage-based model
+- a model of grammatical representation in which **language use determines grammatical representation**
+- specifically: **frequency of use** and **similarity of form and meaning**
+
+#### Basic principles
+
+$acco$
+$deflist$
+**Hypothesis 1**
+
+The storage of a **word form**, regular or irregular, is a function of its **token frequency**.
+$/deflist$
+
+token frequency
+- the frequency of occurrence in language use of individual tokens (of a grammatical type)
+- e.g. the English regular past-tense forms
+
+$widec$
+$down
+$/widec$
+
+'autonomy' (Bybee 1985)
+- the degree of **entrenchment** in a speaker's mind
+- a **function** of its **token frequency**
+
+$example$
+Hence, the concentration of **irregular word forms** in **high-frequency items**.
+$/example$
+
+$info$
+There is also some evidence for the independent storage of high-frequency individual word forms, even when those word forms are fully regular.
+$/info$
+$/acco$
+
+$acco$
+$deflist$
+**Hypothesis 2**
+
+The **productivity of a schema** is a function of the **type frequency of the instances of the schema**.
+$/deflist$
+
+type frequency
+- the frequency of word types that conform to a schema
+
+$widec$
+$down
+$/widec$
+
+productivity (Bybee 1985)
+- how productive a specific schema is
+- a function of its **type frequency**
+
+$example$
+For example, the type frequency of the English regular past-tense inflection is **the
+frequency of _all_ the different verbs that use the regular past-tense inflection**. 
+$/example$
+
+$info$
+One consequence of
+this hypothesis is that **productivity is predicted to come in degrees**: schemas with a
+**low type frequency** will have a **limited degree of productivity**. This appears to be
+the case: for example, the English irregular past with [ʌ(ŋ)(g/k)] is slightly productive 
+(compare colloquial or dialectal _sneak_/_snuck_, _bring_/_brung_).
+$/info$
+$/acco$
+
+$p=499-500$
+
+$acco$
+$deflist$
+**Hypothesis 3**
+
+In addition to _source_-oriented morphological rules/schemas,
+there also exist _product_-oriented schemas, which cannot be
+easily represented by rules.
+$/deflist$
+
+$reader$
+Many traditional, structuralist and generative theories of morphology assume the
+**existence of rules that derive one word from another**, such as the past verb form from
+the present verb form. 
+$/reader$
+
+source-oriented schema (Bybee 1985)
+- a schema for a word form that can be formulated in terms of a **single simple morphological operation** on the alleged source form
+
+$widec$
+$contrast
+$/widec$
+
+product-oriented schema (Bybee 1985)
+- a scheme in which **no simple process** derives the alleged product form from the alleged source form
+-  argues against rules linking one form to another -> supports the view that **schemas are formed as _taxonomic hierarchies_ over semantically similar forms**
+
+$example$
+The English past schema [ʌ(ŋ)(g/k)] is a **phonologically coherent** and partially productive past-tense schema, but the alleged **source forms**, the present-tense forms, **are phonologically so varied** that **no single rule can systematically derive the past-tense forms from the present-tense forms**. 
+$/example$
+$/acco$
+
+$p=500$
+
+$acco$
+$deflist$
+**Hypothesis 4**
+
+**Strength of connection between word forms**, and thus
+forces influencing their phonological shape (among other
+things), is a **function of similarity**. Similarity is measurable
+by **comparing words** to each other in **both _meaning_ and
+_form_**; **similarity in _meaning_ is much stronger than similarity
+in _form_**.
+$/deflist$
+
+taxonomic web
+- constructions can have **multiple parents**
+
+governing principle (Bybee 1985)
+- **semantic similarity** and **formal similarity**
+- => one finds **analogical reformation** of a paradigm so as to bring **formal similarity into line with semantic similarity**
+	- i.e. paradigmatic iconicity: Croft 2003
+
+$example$
+It is certainly the case in morphology at least that **some word forms are ‘‘closer’’ to each other than to other related word forms**; 
+this is the basis for the intuitive **organization of forms** into **paradigms** in traditional morphology.
+$/example$
+$/acco$
+
+#### Case study: token frequency and grammatical organisation
+
+----
+$widec$
+Bybee and Thompson (1997)
+
+the role of **token frequency of constructions** (defined as token frequency of the _substantive elements_ in the construction) in grammatical organization
+$/widec$
+----
+
+$acco$
+1. the syntax of the English auxiliaries is **conservative**
+	- English auxiliaries invert with the subject in questions and precede the negator
+	- all verbs had this possibility in Middle English, but it was **lost** in Modern English
+
+|verb type|context|Middle English|Modern English|
+|----|---|---|---|
+|auxiliary verb|inversion|*do I sleep?*||
+|^^|negation|*I do not sleep*||
+|regular verb|inversion|*sleep I?*|\**sleep I?*|
+|^^|negation|*I sleep not*|\**I sleep not*|
+
+$wide$
+- => Bybee and Thompson argue: the **token frequency** of the auxiliaries was high enough that the **Subject Inversion** and **Postposed Negation constructions** **survived with auxiliaries** when it was **lost with other verbs**
+$/wide$
+
+2. French subjunctive Verb construction
+	- disappearing from the spoken language
+	- but: survives in the highly frequent main clause verb *falloir* 'have to' and most frequent complement verbs
+$/acco$
+
+#### Case study: product-oriented syntactic schemas
+
+----
+$widec$
+Croft and Cruse (2004: 313–18)
+
+product-oriented syntactic schemas **exist**
+$/widec$
+----
+
+1. English Polarity Question and Declarative Negation constructions
+	- have syntactic schemas: [<span class="feature">Aux Sbj</span> . . . ?] and [<span class="feature">Sbj Aux</span>-_n’t_ . . . ]
+	- schemas are more coherent that the input schemas -> may have zero, one, or more
+auxiliary verbs
+
+$widec$
+(this isn't all that interesting -- skipping ahead)
+$/widec$
+
+$p=501$
+
+#### Case study: constructions organized in terms of semantic similarity
+
+----
+$widec$
+(Croft and Cruse 2004)
+$/widec$
+----
+
+$reader$
+For example, the historical shift of the English negative adjectival imperative from _Be not cruel!_ to _Don’t be cruel!_ makes the negative adjectival imperative syntactically more similar to the semantically more similar negative verbal
+imperative _Don’t jump!_ than the semantically more distant negative adjectival declarative _She isn’t cruel_ (Croft and Cruse 2004: 320–31). 
+$/reader$
+
+$p=502$
+
+#### Language acquisition
+
+$reader$
+**Specific constructions *first*, generalisation later**
+
+In other words, children do not utilize schematic categories such as [<span class="feature">Verb</span>] or
+schematic constructions such as the Transitive construction [<span class="feature">Sbj Verb Obj</span>] in
+their early acquisition, whether these schematic structures are innate or not. 
+Instead, **children begin with very low level generalizations based around a single
+predicate and a single construction in which that predicate occurs** and only **later in
+acquisition** learn more **schematic categories and constructions**.
+$/reader$
+
+#### Language change and syntactic change
+
+birth and growth of a construction
+- a process in an incremental fashion
+- not unlike expansion from 'islands' of highly specific constructions in child language acquisition
+
+$example$
+**Development of the *way* construction**
+
+1. Rasselas dug his way out of the Happy Valley.
+1. The wounded soldiers limped their way across the field.
+1. ?Convulsed with laughter, she giggled her way up the stairs.
+
+- $result possessed direct object _way_ + complement describing the path of motion
+- $result _way_-construction is also **syntactically** and **semantically idiosyncratic**
+	- verbs in the _way_-construction are **normally intransitive**, and **their meaning does not normally entail motion**
+$/example$
+
+$p=503$
+
+$reader$
+Using data from the _Oxford English Dictionary_ and the _Oxford University Press
+Corpus of Contemporary English_, Israel argues that the modern _way_-construction
+grew gradually from two different, more narrowly used _way_-constructions, the
+**Means and Manner constructions** (a third source, the acquisition or continued
+possession of a path, shrank rather than expanded, although it remains in certain
+common instances such as find _one’s way_; Israel 1996: 221, note 3). 
+
+- The **Manner construction** began as a special case of the Middle English [_go one’s_ <span class="feature">Path</span>] 
+construction and was originally found with **only the most common general motion
+verbs**, no more than sixteen verbs before 1700 (Israel 1996: 221). 
+- The **Means _way_-construction** does not emerge until around 1650 and begins with verbs describing
+path clearing (_cut_, _furrow out_), road building (_pave_, _smooth_) and forcible motion
+(_force out_, Israel 1996: 223). 
+- In the nineteenth century, the **Means and Manner _way_-constructions** appear to merge. 
+At the same time that the class of verbs in the
+_way_-construction is expanding, the overall syntactic form of the construction
+becomes narrower, eventually prohibiting other nouns than _way_ and requiring an
+obligatory path expression (Israel 1996: 221, 226).
+
+This (common) pattern in syntactic change illustrates how a new construction
+**emerges from an often highly specific instance of an existing construction schema**
+and then **expands in its own direction**. A usage-based model can account for this
+pattern in that it **allows for the entrenchment of specific instances of construction
+schemas, which function as ==‘‘islands’’== from which a new construction expands**,
+establishing and **generalizing a new construction schema** with its own syntactic and
+semantic peculiarities.
+$/reader$
+
+### Prospects for the future
+
+$p=504$
+
+$reader$
+Finally, as noted in the last section, an important desideratum for most 
+construction grammars is **the role of the usage-based model in syntactic representation**.
+Many fundamental questions remain to be addressed: 
+
+<span style="color: red;">
+
+- How many tokens is enough to entrench a linguistic unit?
+- How many types are enough to give rise to some degree of productivity?
+- What is the role of timing of exposure in facilitating entrenchment?
+- How similar do tokens/types have to be to facilitate entrenchment of a grammatical schema?
+- How does one measure grammatical and semantic similarity in order to compare its effect to that of token/type frequency?
+
+</span>
+
+Substantive answers to these questions will **greatly advance** the grammatical theory of Cognitive Linguistics.
+$/reader$
 
 ## Word grammar
 
