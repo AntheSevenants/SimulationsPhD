@@ -2361,8 +2361,6 @@ Many fundamental questions remain to be addressed:
 Substantive answers to these questions will **greatly advance** the grammatical theory of Cognitive Linguistics.
 $/reader$
 
-## Word grammar
-
 ## Diachronic linguistics
 
 ## Lexical variation and change
