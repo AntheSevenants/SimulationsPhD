@@ -1603,7 +1603,6 @@ $widec$
 ![Image](img$vmlg)
 $/widec$
 $/gallery port$
-$/acco$
 
 $acco$
 'meaning' in construction grammar
@@ -1616,6 +1615,7 @@ $example$
 - the use of the definite article to indicate that the object referred to is known to both speaker and hearer) 
 - the use of a construction such as _What a beautiful cat!_ to convey the speaker’s surprise
 $/example$
+$/acco$
 
 #### Comparison with componential grammar
 
@@ -1881,7 +1881,9 @@ $/widec$
 3. the **taxonomic organization of constructions** in a grammar
 
 $wide$
+$widec$
 $down
+$/widec$
 
 the different theories tend
 to **focus on different issues**, representing their distinctive positions vis-à-vis the
@@ -2361,6 +2363,597 @@ Many fundamental questions remain to be addressed:
 Substantive answers to these questions will **greatly advance** the grammatical theory of Cognitive Linguistics.
 $/reader$
 
+$p=945$
+
 ## Diachronic linguistics
+
+### Introduction
+
+#### Levels of change
+
+this chapter
+- linguistic change and perspectives from Cognitive Linguistics
+- in general, distinct areas of change:
+
+1. sound change
+2. analogy
+3. morphosyntactic change
+4. semantic change
+
+#### Aspects of change
+
+==unidirectionality== of change
+- places strong constraints on reconstruction
+
+the use of language change
+- provides **evidence for the nature of linguistic representation and processing**
+- provides a **window on synchronic mental representation** and the **forces that create grammar**
+
+$p=945$
+
+language and ==embodiment==
+- supports the view that **change in articulatory gestures is a prominent basis of sound change**
+
+**frequency**
+- provides explanations for the direction of lexical diffusion of change
+- also: sound change, analogical change, morphosyntactic change
+
+### A usage-based approach to sound change
+
+phonological production
+- a **neuromotor procedure**
+- becomes more highly automated and fluent with **repetition**
+
+$result effect of automation and repetition
+- = **compression** and **reduction** of the gestures involved
+- accounts for frequency of sound change in the history of languages
+- => sound change is a ==natural outcome of language use== and the ==embodied nature of language==
+
+$info$
+It is possible, furthermore, that given a greater understanding of the effects of repetition on neuromotor behavior, a theory could eventually be developed to **predict**
+the class of possible sound changes.
+$/info$
+
+$info$
+The view that sound change results from the
+natural effects that repetition has on neuromotor behavior is supported by the fact
+that **in the lexical diffusion of a sound change, high-frequency words are affected
+before low-frequency words in most cases**.
+$/info$
+
+#### Specifying the class of sound changes
+
+what changes are we talking about?
+- not all changes involving sounds are 'sound changes'
+
+$widec$
+$down
+$/widec$
+
+----
+$widec$
+Mowrey and Pagliuca (1995)
+$/widec$
+----
+
+$p=946-947$
+
+$columns$
+$acco$
+$widec$
+&check; requisites
+$/widec$
+
+1. the changes have to be **actually attested** and **not reconstructed**
+2. the changes must **affect core vocabulary** (including frequent lexical material)
+3. the changes are **most easily observed in relatively unmonitored speech**
+4. the changes take place in a **phonetically gradual manner**
+$/acco$
+
+$acco$
+$widec$
+&cross; excluded changes
+$/widec$
+
+1. changes due to **language contact**
+2. changes due to **analogy**
+3. **hypercorrections**
+$/acco$
+$/columns$
+
+$p=947$
+
+$info$
+Of course, some problems exist for maintaining this
+distinction; it is sometimes a matter of **dispute** whether the origin of a change is
+physical or social, whether a change is purely internal or due to contact. Nevertheless,
+an **attempt** must be made to delimit the set of changes that constitute sound change.
+$/info$
+
+#### Gestures and the nature of sound change
+
+##### Speech is a continuous signal
+
+speech stream
+- a *continuous* signal!
+- despite discrete sound law notation (e.g. [p] > [f] or [u] > [ü])
+- => the **fluid** and **continuous** nature of the speech stream must be borne in mind
+
+$widec$
+$down
+$/widec$
+
+articulatory gesture
+- a better basic unit for phonological description
+- "events that unfold during speech production and whose **consequences can be observed in the movement of the speech articulators**" (Browman and Goldstein 1992: 156)
+
+$reader$
+A typical utterance is composed of **multiple gestures overlapping or sequenced with respect to one another**.
+An **individual gesture is produced by groups of muscles that act in concert**, sometimes 
+ranging over more than one articulator: for instance, constricting lip aperture
+involves the action of the upper lip, the lower lip, and the jaw, but such a constriction is considered **one gesture**.
+$/reader$
+
+##### Gestures and sound change
+
+what is 'sound change'?
+- = the change of **gestures**
+
+----
+$widec$
+Possible **origins of sound change** (Mowrey and Pagliuca 1995, Pagliuca and Mowrey 1987)
+$/widec$
+----
+
+==**substantive** reduction==
+- the reduction in the magnitude of a muscular gesture
+- e.g. change of a stop to a fricative ([d] > [ð])
+- e.g. centralisation of a vowel to [ə]
+
+$wide$
+and/or
+$/wide$
+
+==**temporal** reduction==
+- the **compression** of gestures -> entails a **reduction in the duration of the whole sequence of gestures**
+- single articulator: [si] > [ʃi]
+- multiple independent articulators: $tt=vowel + nasal consonant$VN$/tt$ > ṼN
+
+$p=947-948$
+
+##### General tendencies
+
+Pagliuca and Mowrey (1987)  
+Mowrey and Pagliuca (1995)
+- constellations of gestures in a linguistic string tend to get **_shorter_** over time, as well as **_reduced_ in the amount of
+articulatory energy required** for the production of the individual gestures
+
+$p=948$
+
+Browman and Goldstein (1990, 1992)
+- **all** examples of casual speech alterations are the result of...
+	1. ...gestures having **decreased magnitudes** (both in space and in time) 
+	2. ...increased **temporal overlap**
+
+$info$
+Browman and Goldstein restrict their hypothesis to **casual speech alterations**. This restriction has the advantage of defining an empirically verifiable sample of alterations. Mowrey and Pagliuca (1995) wish to address **_all_ sound change** but with the restrictions stated above. 
+$/info$
+
+$widec$
+$down
+$/widec$
+
+big claims?
+- uncontroversial: majority of sound changes involve assimilation (retiming) or reduction
+- controversial: *all* sound changes are reductions and retimings
+- controversial: all changes are articulatory in their motivation and gradual in their implementation
+
+$result goal of gestural research
+- demonstrate that attested changes are better explained in a **gestural model** than in a model using **binary features**, **segments**, or **acoustic features**
+- demonstrate that apparent **strengthenings** (such as the addition of a segment) and apparent acoustically
+motivated changes can be seen in **gestural terms** as instances of substantive or temporal reduction (see also Pagliuca 1982)
+
+#### Assimilation
+
+----
+$widec$
+Palatalisation of [s] before [i]  
+Pagliuca and Mowrey (1987)
+$/widec$
+----
+$widec$
+[si] > [s^j^i] > [ʃi]
+$/widec$
+----
+
+$reader$
+1. The segmental representation which shows the [s] as first palatalized and then
+transformed into an alveopalatal would be described in distinctive features by
+saying that the [s] first changes the value of [high] from minus to plus. This would
+be **explained on the basis of the [+high] specification for [i] spreading to the preceding segment**.
+2. In the next step, the value for [anterior] will be changed from plus
+to minus.
+
+The first step changes one feature of [s] to be the same as one feature of
+[i]. **The second step has no clear assimilatory explanation.**
+$/reader$
+
+$p=948-949$
+
+$reader$
+Many problems with this form of description could be pointed out, such as the
+fact that **there is nothing to predict that it would be the feature [high] that would
+change its value rather than some other feature that differs between the two segments, 
+such as [syllabic]**. Nor is there **any natural way to explain or predict the
+change in the feature [anterior]**. Related to this lack of predictability is the more
+fundamental fact that this feature-and-segment analysis **does not give a very accurate 
+picture of what is really happening in a language with this process**.
+$/reader$
+
+$p=949$
+
+$reader$
+Pagliuca and Mowrey (1987) argue that **it is not a feature or property of [s] that
+has changed to be more like [i], but rather the formerly sequential gestures producing 
+the [s] and the [i] have gradually been compressed** so that first **the transition 
+between the [s] and the [i] is highly affected by the position of the tongue for
+[i]**. A further and later development is that the two gestures come to overlap to
+such an extent that the whole articulation of the fricative is affected by the domed-
+tongue gesture of the [i], increasing the area of the point of constriction. This
+analysis is confirmed in Zsiga (1995), whose electropalatographic data show that in
+productive palatalization of [s + j] across word boundaries (as in _miss you_), the
+contact of the tongue with the palate is just what one would expect if the [s] and the
+[j] were articulated at the same time.
+$/reader$
+
+$result consequence
+- assimilation process is actually a **temporal reduction**
+- two previously _sequential_ gestures are now **simultaneous** for at least part of their articulation
+
+$reader$
+Other examples of assimilation that can
+be explained in this way include **vowel nasalization**, which takes place preferentially
+when a vowel is followed by a nasal consonant in the same syllable. In this case, the
+gesture that opens the velum for nasalization is anticipated; it is retimed to occur
+during the articulation of the vowel. The view of this change as a modification in
+timing makes it possible to relate articulatory processes of speech to modifications
+made in other well-rehearsed motor events, where repetition increases efficiency
+or fluency because sequences of events can be anticipated and one event can begin
+before the preceding one is totally completed.
+$/reader$
+
+#### Other retiming changes
+
+$widec$
+skip, not that interesting
+$/widec$
+
+$p=950$
+
+#### Reductive processes
+
+reduction
+- in the **magnitude** of gestures
+
+##### Reduction of _consonants_
+
+$acco$
+**1.** lenition / weakening
+- successive decrease and loss of muscular activity
+
+$example$
+The reduction of a consonant, such as [p], along a path which is cross-linguistically common, 
+that is, [p] > [θ]/[f] > [h] > ∅ is characterized as a **successive decrease and
+loss of muscular activity**. The production of [p] requires muscular activity of
+both the upper and lower lips, which act to bring them together, as well as the
+activity required to open the glottis. The production of [f] requires less or no
+activity in the muscles of the upper lip, but continued activity in the lower lip
+and glottis. The sound [h] is produced with no activity in the labial muscles at
+all, but requires the opening of the glottis. Total deletion involves the loss of all the
+muscular events that were associated with the original consonant (Mowrey and
+Pagliuca 1995: 81–83).
+$/example$
+$/acco$
+
+$acco$
+**2.** sonorous / ovwel-like consonant
+- most notable in syllable-final or postvocalic position
+
+$example$
+For example, the
+change of a syllable-final [l] to a back unrounded glide [ɯ] involves the loss of the
+tongue tip gesture. This change occurs in American English pronunciations of
+words such as milk as [mɪɯk].
+$/example$
+$/acco$
+
+$acco$
+$wide$
+**3.** temporal reduction of a stop
+$/wide$
+
+$example$
+The English alveolar flap
+found in words such as _latter_ and _ladder_ [(American English)] 
+is significantly shorter than the [t] or [d]
+that occurs preceding a stressed vowel (Zue and Laferriere 1979) [(e.g. ***d**ome*)]. The medial stops
+in _upper_ and _trucker_ are also shorter than their counterparts preceding the stress [(e.g. *party* and *kosher*)],
+but this difference is not as salient (Hoard 1971).
+$/example$
+$/acco$
+
+##### Reduction of *vowels*
+
+$acco$
+**1.** lessening of gesture magnitude
+- high vowel: usually a **decrease in muscular activity** => lowered articulation 
+- peripheral vowers: usually a more central articulation
+- general shortening
+
+$result centralisation
+- the result of lessening the magnitude of gestures that move the articulators to peripheral positions
+
+$result shortening
+- the loss of temporal duration of muscular activity
+
+$example$
+In **unstressed syllables**, reduction can be manifest in various changes in the gestures, some of which may co-occur. 
+$/example$
+
+$info$
+When reduction leads to complete _deletion_, both temporal and substantive reduction have occurred.
+$/info$
+$/acco$
+
+$p=951$
+
+#### Acoustic-perceptual aspects of phonological processes and change
+
+acoustic-perceptual component
+- still applies to phonological processes!
+- any change in gestures or their timing produces an **acoustic-perceptual change**
+
+$info$
+In fact, for a _gestural_ change to proceed and become conventionalized as part of the language, its
+_perceptual_ effects must be registered in storage.
+$/info$
+
+----
+$widec$
+Roles of **perception** in sound change
+$/widec$
+----
+
+**1.** L1 issues
+- in certain cases, change can occur because **children fail to perceive and acquire a relatively difficult phonetic configuration**
+
+**2.** perceptual extension
+- where _contextual_ change has already occurred for articulatory reasons, a _perceptual_ reanalysis could extend a change that has already begun
+(Ohala 1981)
+
+$example$
+For instance, in a situation in which the vowel in a VN sequence is
+nasalized, if the nasal consonant is _also_ weakening, then the nasalization could be
+attributed to the _vowel_ rather than to the consonant, thereby **contributing to the
+continuation of the change toward having just a nasalized vowel with a deleted
+consonant**. Ohala (2003) refers to this as a **change in the ==normalization process==**.
+$/example$
+
+#### Strengthenings
+
+$widec$
+not relevant
+$/widec$
+
+$p=952$
+
+#### Lexical diffusion of sound change
+
+##### Different types of lexical diffusion
+
+lexical diffusion
+- the way a sound change affects the **lexicon**
+
+$widec$
+$down
+$/widec$
+
+lexically **_abrupt_** sound change
+- all words are affected by the sound change at the **same rate**
+
+lexically **_gradual_** sound change
+- individual words undergo the sound change at **different rates** or **different times**
+
+##### Prior research
+
+$acco$
+Schuchardt (1885)
+- "high-frequency words are affected by sound change earlier and to a greater extent than low-frequency words"
+$/acco$
+
+$acco$
+Labov (1981, 1994)
+- "there are two types of sound change"
+
+$widec$
+$down
+$/widec$
+
+**1.** ==regular sound change==
+- gradual, phonetically motivated
+- occurs without lexical or grammatical conditioning or social awareness
+- found most often in "the late stages of internal change that has been differentiated by lexical and grammatical conditioning" (Labov 1994: 542)
+
+**2.** ==lexical diffusion change== 
+- "the result of the abrupt substitution of one phoneme for another in words that contain that phoneme" (Labov 1994: 542) 
+- studied by Wang (1969, 1977)
+
+$info$
+Labov even goes so far as to propose that **certain changes**, such as the deletion of glides and schwa, will be **regular
+changes**, while the **deletion of obstruents** will show **lexical diffusion**. A number of researchers have challenged this position.
+$/info$
+$/acco$
+
+##### High-frequency first, low-frequency later
+
+effect
+- high-frequency words affected **earlier** and **to a greater extent** than low-frequency words (Hooper 1976b)
+
+###### Consonant reduction
+
+----
+$widec$
+**Case study:** Bybee (2000b) about American [t]/[d]-deletion
+$/widec$
+----
+
+[t]/[d]-deletion
+- occurs **more often in words of high frequency** than in words of **low frequency**
+
+[ Rate of t/d-deletion for entire corpus by word frequency ]
+|frequency|deletion|non-deletion|\% deletion|
+|---|---|---|---|
+|high frequency|898|752|**54.5%**|
+|low frequency|137|252|**34.3%**|
+
+$widec$
+chi-squared = 41.67; p < .001; df = 1
+$/widec$
+
+----
+$widec$
+**Case study:** Bybee (2000b) about New Mexican Spanish [ð]-deletion
+$/widec$
+----
+
+[ Rate of deletion of ð according to token frequency for all non past participle tokens in the New Mexican corpus using the COREC as a measure of frequency ]
+|phenomenon|low (0–99)|High (100+)|total|
+|---|---|---|---|
+|retention|243 (91.4%)|287 (78.6%)|530 (84.0%)|
+|deletion|23 (8.6%)|78 (21.4%)|101 (16.0%)|
+|total|266|365|631|
+
+$widec$
+chi-squared = 17.3; p < .001; N = 631; df = 1
+$/widec$
+
+$wide$
+- $result higher-frequency words are more likely to undergo deletion of [ð] than lower-frequency words
+$/wide$
+
+###### Vowel reduction
+
+Fidelholtz (1975)
+- **word frequency** is very important
+- marks the difference between words that *do* reduce a prestress vowel, and those that don't
+	- e.g. _astronomy_, _mistake_, _abstain_ (yes) <-> _gastronomy_, _mistook_, _abstemious_ (no)
+
+Van Bergem (1995)
+- **word frequency** *again* important
+- reduction of a prestress vowel in Dutch also is highly conditioned by frequency
+	- e.g. _minuut_, _vakantie_, _patat_ (yes) <-> _miniem_, _vacante_, _patent_
+
+$p=954$
+
+$widec$
+$down can the same pattern be found in vowel shift changes? $down
+$/widec$
+
+$acco$
+Labov (1994: 506)
+- attempts, but does not succeed
+$/acco$
+
+$acco$
+Moonwomon (1992)
+- topic: centralization of /æ/ in San Francisco English
+- before fricative: more centralised than after fricative
+- after [l]; more centralised
+- (I don't see how this has to do with frequency)
+$/acco$
+
+$acco$
+Moonwomon (1992)
+- fronting of /ɔ/
+- following /t/ or /d/: more fronting than other consonants
+
+$reader$
+Of the words in the corpus ending in final /t/, _got_ is the most frequently occurring. Moonwomon
+also shows that the fronting in _got_ is significantly more advanced than in other
+words ending in alveolars, such as _not_, _god_, _body_, _forgot_, _pot_, and so on.
+$/reader$
+$/acco$
+
+$widec$
+$down
+$/widec$
+
+conclusion
+- *some* evidence that high-frequency words undergo vowel shifts before low-frequency words
+
+$reader$
+The lack of _stronger_ evidence may
+be due to a greater difficulty in discerning frequency effects in vowel shifts because
+of **the effects of the preceding and following environments**, which narrow each
+phonetic class to a **small number of words**.
+$/reader$
+
+#### Theoretical consequences of lexically and phonetically gradual sound change
+
+earlier assumption
+- change that diffuses gradually through the lexicon must be **phonetically abrupt** (Wang, Labov)
+- but: wrong! -> sound can be phonetically *and* lexically gradual (Hooper 1981, Bybee 2000b)
+	- so: below the level of the phoneme (not entire phonemes changing at once)
+
+$widec$
+$down
+$/widec$
+
+cognitive representation of a word
+- made up of the **set of exemplars of that word that have been experienced by the speaker/hearer**
+- *all* phonetic variants of a word are stored in memory
+- then: organised into a **cluster** 
+
+$result cluster organisation
+- exemplars that are **more similar are closer** to one another than the ones that are dissimilar
+- frequently occurring exemplars are stronger than less frequent ones (Johnson 1997; Bybee 2000a, 2001; Pierrehumbert 2001)
+- but: the cluster *changes* as experience with language changes
+	- "repeated exemplars grow stronger, and less used ones may fade overtime, as other memories do" (spaced repetition?)
+
+$reader$
+<span style="color: red;">
+
+Changes in the phonetic range of the exemplar cluster may also take place
+**as language is used** and new tokens of words are experienced. Thus, **the range of
+phonetic variation of a word can gradually change over time**, allowing a **phonetically
+gradual sound change to affect different words at different rates**. Given a tendency for
+online (?? $todo) reduction, **the phonetic representation of a word will gradually accrue more
+exemplars that are reduced**, and these exemplars will become more likely to be chosen
+for production where they **may undergo _further_ reduction**, gradually moving the
+words of the language in a **consistent direction**. The **more frequent words will have
+more chances to undergo _online_ reduction** and thus will change more rapidly. Words
+that are **more predictable in context** (which are often also the more frequent ones)
+will have a **greater chance of having their reduced version chosen**, given an appropriate context, 
+and thus will also advance the reductive change more rapidly.
+</span>
+$/reader$
+
+$reader$
+<span style="color: red;">
+
+The exemplar model in principle allows every word of a language to have a
+distinct set of phonetic gestures and an **unlimited range of variation**. The reason
+languages do not avail themselves of this possibility is because **categorization of the
+components of words into a small set of gestural constellations is necessary given
+the size of the vocabulary of natural languages.** In order to organize the lexicon and
+automate production and perception, it is **necessary to reuse the same gestures in
+large numbers of lexical items**. Evidence from sound change also shows that **the
+range of variation for a single word tends to narrow as change goes to completion
+and that this narrowing tends to be consistent across lexical items, with very high
+frequency items being the only exceptions** (Bybee 2000b, 2001). The sets of gestures
+that are reused across the lexicon are roughly equivalent to phonemes.
+
+</span>
+$/reader$
 
 ## Lexical variation and change
