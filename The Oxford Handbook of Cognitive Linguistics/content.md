@@ -2956,4 +2956,906 @@ that are reused across the lexicon are roughly equivalent to phonemes.
 </span>
 $/reader$
 
+#### Perceptually motivated change
+
+misperceptions
+- may *also* cause sound change
+- especially on the part of **learners** (Ohala 1992)
+
+$widec$
+$down
+$/widec$
+
+pattern of lexical diffusion
+- most logically from **low-frequency words** to **high-frequency words**
+- (these are more likely to be misinterpreted)
+
+$reader$
+Phillips (1984) found a similar pattern of diffusion for some sound changes. For
+instance, the Old English diphthong &lt;eo&gt; monophthongized to a mid front rounded
+vowel /ö/, with both a long and a short version in the eleventh to twelfth centuries.
+In some dialects, these front rounded vowels were maintained into the fourteenth
+century, but in Lincolnshire, they quickly unrounded and merged with /e(:)/. A
+text written around 1200 AD, the Ormulum, captures this change in progress.
+The author was interested in spelling reform, and so, rather than regularizing
+the spelling, he represented the variation, **using two spellings for the same word in
+many cases** (e.g. _deop_, _dep_ ‘deep’). Phillips found that within the class of nouns and
+verbs, the **low-frequency words are more likely to have the spelling that represents
+the unrounded vowel**.
+$/reader$
+
+$p=956$
+
+$widec$
+$down two general patterns $down
+$/widec$
+
+|phonetically motivated change|perceptually motivated change|
+|---|---|
+|facilitates production|stem from misinterpretation of words and imperfect learning (Bybee 2001)|
+|high-frequency first|low-frequency first|
+|adverbs, function words (+ collocations?, nvda)|nouns, verbs|
+
+#### Suprasegmental changes
+
+$widec$
+skipped -- no general motivations given
+$/widec$
+
+$p=957$
+
+#### Life cycle of phonological alternations
+
+$reader$
+As sound change produces **permanent effects on the words of a language**, **in cases of
+morphological complexity, there is a potential for the development of ==alternations== 
+in ==paradigms==**. These alternations become **==morphologized==**, that is, they...
+
+- **lose** their **_phonetic_ conditioning**
+- **take on** **_morphological_** or **_lexical_ conditioning**
+
+The diachronic trajectory shown below is both **universal** and **unidirectional** (Kiparsky
+1971; Vennemann 1972; Hooper 1976a; Dressler 1977, 1985; Bybee 2001).
+
+$widec$
+phonetic process > morpholexical alternation
+$/widec$
+
+$example$
+Thus, for example, a phonetic process of **voicing of intervocalic fricatives in
+Old English** produced the alternating pairs _wife_/_wives_; _leaf_/_leaves_; _house_/_hou_[z]_es_;
+_bath_/_ba_[ðz]. Today, however, **the alternation is= _morphologized_**, in the sense that it
+**applies only in the plural of nouns (not in possessive form, e.g., wife’s)**, and it is
+**==_lexicalized_==** in the sense that it **applies only to a certain set of nouns** (not, e.g., _to chief_
+or _class_).
+$/example$
+$/reader$
+
+after morphologisation / lexicalisation process
+- subject to further changes -> generally designated as *analogical changes* ($see $down)
+
+#### Conclusions about sound change
+
+most common origin of sound change
+- 'automatisation' of articulatory gestures
+- **reduction** and **temporal compression** of gestures account for most changes
+
+$result usage-based phenomenon
+- affects high-frequency words and phrases in advance of lower-frequency items
+
+$result further properties
+- lexically and phonetically gradual
+- shows lexical effects (suggests that phonetic detail is stored in the brain)
+
+$info$
+Where lexical diffusion data are available, we have evidence for which mechanism is involved ($see table $up).
+$/info$
+
+$p=958$
+
+### Analogical change
+
+analogical change
+- traditionally morphophonological change
+- i.e. the loss or levelling of paradigm-internal alternations
+- i.e. the extension of alternations from one paradigm to another
+
+$reader$
+Indeed, analogy has been regarded as
+irregular and thus **possibly unpredictable**, as in Sturtevant’s famous paradox: **sound
+change is regular and creates irregularities** (in the morphology); **analogy is irregular
+and creates regularity**.
+$/reader$
+
+#### Analogical levelling
+
+##### What is analogical levelling?
+
+analogical levelling
+- a paradigm that exhibits an alternation, loses that alternation and becomes regularised
+
+$example$
+- _weep_/_wept_ -> _weep_/_weeped_
+- _hou_[s]_e_/_hou_[z]_es_ -> _hou_[s]_e_/_hou_[s]_es_
+- _roof_/_rooves_ -> _roof_/_roofs_
+$/example$
+
+##### Three important tendencies
+
+$wide$
+1. Leveling affects the **least frequent paradigms first**, leaving alternations in the more frequent paradigms
+2. The alternate that survives after leveling is the alternate of the **more basic**, **unmarked**, or **more frequent member** of the category
+3. Leveling is more likely among forms that are **more closely related to one another**
+$/wide$
+
+$wide$
+- $result we assume that **high frequency adds to the strength of the lexical representation** of a form (Bybee 1985)
+$/wide$
+
+##### Conditions for levelling
+
+when does levelling occur?
+- when a lower-frequency form is difficult to access
+- but: a related higher-frequency form _is_ accessible
+- => the latter form is used to create a new form on the basis of 
+	- a **productive** pattern, or
+	- one that applies to a **larger number of forms**
+
+$reader$
+Thus, if _weep_ is easier to
+access than _wept_, a speaker searching for a past may use _weep_ and the regular past suffix to create the new form _weeped_.
+$/reader$
+
+$p=959$
+
+$widec$
+$down
+$/widec$
+
+----
+$widec$
+analogical levelling is not _change_ in an _old_ form, but the _creation_ of a _new_ form
+$/widec$
+----
+
+$wide$
+- $result alternate forms (*wept*, *weeped*) can coexist in a language
+$/wide$
+
+$info$
+High-frequency forms resist leveling because of their greater availability in
+the experience of the speaker, which affords them a greater lexical strength (Bybee
+1985). Thus, it is normal for irregularities among nouns, verbs, and adjectives to be
+found primarily in the most frequent paradigms (those whose words have high
+token frequency), such as, _man_/_men_, _child_/_children_; _go_/_went_, _have_/_had_; _good_/_better_/
+_best_.
+$/info$
+
+#### The direction of analogical levelling
+
+----
+$widec$
+Which alternate survives when leveling occurs?
+$/widec$
+----
+
+answer
+- the most available one
+
+$p=960$
+
+Maǹczak (1978, 1980)
+- "more frequent forms are more likely to
+	- be maintained in language
+	- retain an archaic character
+	- trigger changes in less frequent forms
+	- replace less frequent forms
+
+#### The domain of analogical levelling
+
+----
+$widec$
+Which alternations are more likely in a paradigm?
+$/widec$
+----
+
+formal variants
+- more common in forms which correspond to **greater semantic differences**
+- e.g. difference in _aspect_ (perfective/imperfective) has a larger ground for formal differences than difference in _person_
+
+$widec$
+$down consequence
+$/widec$
+
+locus of analogical levelling
+- in **closely related forms** (in terms of meaning)
+- => e.g. consequence = 1st person singular always has the same stem
+
+$example$
+Spanish has perfective/imperfective forms with stem changes, such as
+_supe_/_sabía_ and _quise_/_quería_, but no stem allomorphy within these aspects that
+corresponds to person/number distinctions.
+$/example$
+
+$p=961$
+
+$reader$
+Thus, leveling occurs within subparadigms of closely related forms where the
+more frequent form serves as the basis for the creation of a new form that replaces
+the less frequent form. For instance, consider the changes in the paradigm for _to do_
+in Old and Middle English (Moore and Marckwardt 1960):
+
+|tense|person|Old English|Middle English|
+|---|---|---|---|
+|prs. ind|1sg|dō|do|
+|^^|2sg|dēst|dest|
+|^^|3sg|dēp|doth|
+|^^|pl|dōp|do|
+|pret. ind|1sg|dyde|dide, dude [dyde]|
+|^^|2sg|dydest|didest, dudest|
+|^^|3sg|dyde|dide, dud|
+
+- Old English had an alternation in the **singular present** between **first person** and
+**second** and **third**. There was _also_ an **alternation between present and preterite**. In
+the preterite, there is a **vowel change** (from the present) and also an **added consonant [d]**.
+- Given some leveling, there are theoretically two possibilities:
+	1. The one that occurs, in which **the vowel alternations among the present forms are lost**,
+leaving **only a vowel alternation between present and preterite**. In this case, the
+vowel alternation now **coincides with the major semantic distinction** in the paradigm, the **_tense_ distinction**. 
+	2. The other alternative would be to view the alternations
+marking the **distinction** between **first person**, on the one hand, and **second** and
+**third**, on the other, as the major distinction. In that case, leveling would mean
+**eliminating the distinction between present and preterite in the first person**, giving
+preterite \*_dode_ for first person. Second- and third-person preterite might also
+become \*_dedest_, _dede_. Then the paradigm would be organized as follows:
+
+person|tense|form|
+|---|---|---|
+|1sg|prs. ind.|do|
+|^^|pret. ind.|dode|
+|2sg|prs. ind.|dest|
+|^^|pret. ind.|dedest|
+|3sg|prs. ind.|deth|
+|^^|pret. ind.|dede|
+
+Such changes apparently do not occur **because the person/number forms
+within tenses or aspects (or moods, for that matter) are more closely related to one
+another** than they are to the same person/number forms in other tenses, aspects, or
+moods. It is notable that **the traditional presentation of a verbal paradigm groups
+person/number forms together according to tense, aspect, and mood, as in (5, first table)**, and
+does not group tense/aspect forms together according to person/number. Also, in
+the languages of the world, alternations often correspond to tense, aspect, or mood
+and rarely to person/number distinctions across tense, aspect, or mood (Hooper
+1979; Bybee 1985).
+$/reader$
+
+$p=962$
+
+##### Conclusions
+
+$wide$
+- low-frequency paradigms tend to level earlier and more readily than
+high-frequency paradigms, which tend to maintain their irregularities
+-, the higher-frequency forms with a paradigm or subparadigm tend to retain a more
+conservative form and serve as the basis of the reformation of the forms of lesser
+frequency
+$/wide$
+
+$info$
+Note further that the fact that paradigms tend to undergo leveling one by
+one and not as a group indicates that morphophonological alternations are not
+generated by rule, but rather that each alternation is represented in memory in the
+forms of the paradigm. The fact that the more frequent forms resist change and
+serve as the basis of change for lower-frequency forms means that all of these forms
+are represented in memory, but that the higher-frequency forms have a stronger
+representation than the lower-frequency forms.
+$/info$
+
+#### Analogical extension
+
+analogical extension
+- a paradigm that previously had no alternation **acquires one** or **changes** from one alternation to a different one
+
+$example$
+For instance, while _cling_/_clung_ and _fling_/_flung_ have had a vowel alternation since the
+Old English period, the verb _string_ which was formed from the noun has only had a
+vowel alternation, _string_/_strung_ since about 1590. Similarly, the past of _strike_ has
+had a variety of forms, but most recently, in the sixteenth century, the past was
+_stroke_, which was replaced by _struck_ in the seventeenth century.
+$/example$
+
+##### Basis for analogical extension
+
+$reader$
+As mentioned above, it is popular to describe extensions as if they arose
+through **proportional analogies**, such as ‘_fling_ is to _flung_ as _string_ is to X’, where the
+result of the analogy is of course _strung_. However, there are examples that are very
+difficult to describe with such formulas.
+
+For instance, the original set of verbs that
+constitute the class to which _string_ belongs all had **nasal consonants** in their codas:
+_swim_, _begin_, _sing_, _drink_. In the sixteenth and seventeenth centuries, however, _stick_/
+_stuck_ and _strike_/_struck_ were added to this class. A little later, the past of regular _dig_
+became _dug_. More recent nonstandard formations are also problematic: _sneak_/
+_snuck_ and _drag_/_drug_ (both used in my native dialect) present dual problems:
+
+1. First,
+all of the mentioned items require a **stretching** of the phonological definition of
+the class, since originally verbs ending in [k] or [g] without a nasal would not have
+belonged to the class.
+2. Second, _strike_, _sneak_, and _drag_ do not have the vowel [i] in the
+base form as other members of the class do.
+
+- $result what are the first two terms of the proportion that allow _strike_/_struck_ to be
+the second two terms?
+- $result _strike_ has both the wrong vowel and the wrong coda to pair up with _string_
+$/reader$
+
+##### A model for analogical extension
+
+$p=962-963$
+
+$reader$
+One solution is to suppose that the requisite categorization is of the **past/past
+participle form**, **_not_ the base form**, nor the relation between the base and the past
+form. Thus, **a schema is formed over the past forms**, which have similar phonological shape 
+and similar meaning (Bybee 1985, 1988; Langacker 1987).
+
+There is no
+particular operation specified as to how to derive the past from the base, such as
+[ɪ] ->[ʌ], as such a derivation would not apply to _strike_, _sneak_, or _drag_; rather, there
+is **only the specification of the schema for the past form**. Modifications that make a
+verb fit this schema could be different in different cases (Bybee and Moder 1983).
+Also, the schema is stated in terms of natural categories; that is, the phonological
+parameters are not categorical, but rather define **family resemblance relations**.
+Since so many members of the class have velar nasals originally, it appears that the
+feature **velar was considered enough of a defining feature of the class that it could
+appear without the feature nasal**, opening the door to extensions to verbs ending in
+[k], such as _stick_ or _strike_, and eventually verbs ending in [g], such as _dig_. A schema
+defined over a morphologically complex word, such as a past, is a **product-oriented
+schema** (Zager 1980; Bybee and Slobin 1982; Bybee and Moder 1983).
+$/reader$
+
+$p=963$
+
+$reader$
+However, recently, experimentation with nonce probe tasks and computer simulations of the acquisition of morphological patterns have provided evidence to
+supplement the diachronic record. (An example is the experiment of Bybee and
+Moder 1983, cited above.) 
+$/reader$
+
+1. Extension relies on a **group of items with at least six members** having a **strong phonological resemblance to one another**. Such a group of words has been called a "gang" and the
+attraction of new members to the group has been called a "gang effect"
+2. Another
+constraint is that most members of the group should have _sufficient_ frequency to
+maintain their irregularity, but items of _extreme high_ frequency do not contribute
+to the gang effect, as they are in general more autonomous, or less connected to
+other items (Moder 1992).
+
+$deflist$
+Hare and Elman (1995): model of English past-tense verb system
+$/deflist$
+
+$p=964$
+
+#### Conclusions concerning analogy
+
+word-by-word
+- evidence of stored representation of morphologically complex words organised into an associate network
+- so: no rule-based model!
+
+varying strength
+- frequent words are less subject to analogical levelling
+
+### Grammaticalisation
+
+#### Properties of grammaticalisation
+
+##### What is grammaticalisation?
+
+grammaticalisation
+- "the process by which a lexical item or a
+sequence of items becomes a **grammatical morpheme**, changing its distribution
+and function in the process"
+
+$p=965$
+
+$example$
+*going to* as a marker of future
+
+$reader$
+More recently, it has been observed that it is important to
+add that grammaticalization of lexical items takes place **_within_** 
+particular constructions (Bybee, Perkins, and Pagliuca 1994; Traugott 2003) and further that
+grammaticalization is the creation of **new** constructions (Bybee 2003). Thus, _be
+going to_ does not grammaticalize in the construction exemplified by _I’m going to the
+store_ but only in the construction in which a verb follows _to_, as in _I’m going to buy a
+car_.
+$/reader$
+$/example$
+
+##### Characteristics of the grammaticalisation process
+
+----
+$widec$
+The canonical type of grammaticalization is that in which a **lexical item** becomes a **grammatical morpheme** within a particular construction.
+$/widec$
+----
+
+$acco$
+**1.** phonetical reduction
+- words and phrases undergoing grammaticalization are phonetically reduced
+- reductions, assimilations, and deletions of consonants and vowels producing sequences that require less muscular effort
+
+$example$
+going to [goiŋt^h^uw] becomes _gonna_ [gənə]
+and even reduces further in some contexts to [ənə], as in _I’m (g)onna_
+[aimənə]
+$/example$
+$/acco$
+
+$acco$
+**2.** generalising meaning
+- concrete meanings entering into the process become **generalized** and **more abstract**
+- therefore: more appropriate in a growing range of contexts
+
+$example$
+1. **movement:** We are going to Windsor to see the King.
+1. **intention:** We are going to get married in June.
+1. **future:** These trees are going to lose their leaves.
+
+Only (1) was possible in Shakespeare English. (2) and (3), which are more general, are now possible.
+$/example$
+$/acco$
+
+$acco$
+**3.** increased frequency of use
+- a grammaticalizing construction’s frequency of use **increases dramatically** as it develops
+- logical: as it is eligible for use in more contexts, its frequency can increase as well!
+$/acco$
+
+$acco$
+**4.** gradual and varied
+- changes in grammaticalization take place very **gradually** and are accompanied by **much variation** in both form and function
+- variation in _form_: *going to*, *gonna* ...
+- variation in _function_: 'movement', 'intention', 'future' ($see $up)
+$/acco$
+
+$p=966$
+
+#### General patterns of grammaticalisation
+
+universality
+- mechanisms of change *and* paths of change are often comparable across languages
+
+$widec$
+(many examples, which aren't of particular use to me right now)
+$/widec$
+
+$p=967$
+
+#### Paths of change and synchronic patterns
+
+grammaticalisation paths
+- 'universal' paths of grammaticalising development, occurring independently in unrelated languages
+
+$widec$
+$down
+$/widec$
+
+movement path
+- movement toward a goal > intention > future
+
+volition path
+- volition / desire > intention > future
+
+$widec$
+(several examples)
+$/widec$
+
+$p=968$
+
+#### Conceptual sources for grammatical material
+
+----
+$widec$
+What meanings grammaticalise in different languages?
+$/widec$
+----
+
+similar meanings across languages!
+- the **same / very similar lexical meanings** tend to grammaticalise in unrelated languages
+
+$wide$
+- $result generalisations?
+$/wide$
+
+----
+$widec$
+Heine, Claudi, and Hünnemeyer (1991b)
+$/widec$
+----
+
+$acco$
+**1.** universal
+- the terms in the grammaticalising set are **culturally independent**
+$/acco$
+
+$acco$
+**2.** concrete and basic
+- grammaticalising words represent **concrete** and **basic** aspects of human relations with the environment
+- strong emphasis on **spatial** environment and **human body parts**
+
+$example$
+**Spatial environment**
+
+- future constructions: 'come' and 'go' 
+- progressive constructions: 'sit', 'stand' and 'lie'
+$/example$
+
+$example$
+**Body parts**
+
+- The noun for ‘head’ evolves into a preposition meaning ‘on top of’, ‘top’, or ‘on’.
+- ‘Back’ is used for ‘in back of’ (English provides an example of this derivation)
+- ‘face’ for ‘in front of’
+- ‘buttock’ or ‘anus’ for ‘under’
+- ‘belly’ or ‘stomach’ for ‘in’ (Heine, Claudi, and Hu¨nnemeyer 1991b: 126–31)
+$/example$
+$/acco$
+
+$p=969$
+
+$reader$
+The claim here is not that the **abstract concepts** are forever linked to the more
+concrete, only that they **have their diachronic source in the very concrete physical
+experience**. Grammatical constructions and the concepts they represent become
+emancipated from the concrete and come to express purely abstract notions, such
+as tense, case relations, definiteness, and so on. It is important to note, however,
+that **the sources for grammar are concepts and words drawn from the most concrete 
+and basic aspects of human experience**.
+$/reader$
+
+#### Grammaticalisation as automatisation
+
+automatisation
+- as something is done routinely, it becomes an **automatism**
+- e.g. playing the violin
+
+$widec$
+$down
+$/widec$
+
+grammaticalisation as automatisation
+- with repetition, sequences of units that were previously independent
+come to be processed as a single unit or chunk
+	1. the identity of the component units is gradually lost
+	2. the whole chunk begins to reduce in form
+
+$p=970$
+
+### Morphosyntactic change
+
+#### Development of new constructions
+
+$widec$
+(nothing new?)
+$/widec$
+
+#### Lexical diffusion of constructions
+
+lexical diffusion in the extension of constructions
+- direction: from least to most frequent
+
+$p=971$
+
+$reader$
+In some cases the **most frequent instances of a construction retain archaic characteristics** so that two means of expressing the same thing exist in a language (Tottie 1991; Ogura 1993). A case studied by Tottie (1991) involves the development of negation expressed by _not_ in English. Synonymous pairs of sentences exist in English using two constructions, of which the one with _not_ is the more recent and now more productive:
+
+13. a. He did not see any books.  
+b. He saw no books.
+14. a. He did not see anything.  
+b. He saw nothing.
+15. a. He did not see it any longer.  
+b. He saw it no longer.
+
+Tottie examines a large number of spoken and written texts and finds that the
+older construction is still used only with very frequent verbs, that is, existential and
+copular _be_, stative _have_, and the lexical verbs _do_, _know_, _give_, and _make_:
+
+16. At last she got up in desperation. There was no fire and she was out of
+aspirins.
+17. The Fellowship had no funds.
+18. I’ve done nothing, except, you know, bring up this family since I left school.
+19. . . . I know nothing about his first wife.
+
+The resistance of particular verb-plus-negative combinations to replacement
+by the more productive constructions suggests a strong representation of these
+particular sequences in memory. Even though they are instances of more general
+constructions, these particular local sequences have a representation that allows
+them to maintain the more conservative construction. In this case, an understanding 
+of diachrony helps us explain why there are two alternate, synonymous constructions 
+and why they are distributed as they are. It also provides evidence for a
+strong connection between lexicon and grammar.
+$/reader$
+
+#### Decategorialisation
+
+decategorialisation
+- term applied to the set of processes by which **a noun or
+verb loses its morphosyntactic properties** in the process of becoming a grammatical
+element (Heine, Claudi, and Hu¨nnemeyer 1991a; Hopper 1991)
+
+$widec$
+$down two options
+$/widec$
+
+$acco$
+**1.** remain
+- the lexical item from which a grammatical morpheme arose will remain in the language
+
+$example$
+_go_ retains many lexical uses, despite the grammaticalization of _be going to_
+$/example$
+$/acco$
+
+$acco$
+**2.** leave
+- the lexical item disappears and only the grammatical element remains 
+
+$example$
+_can_ is grammaticalized, and the main verb from which it developed, _cunnan_ ‘to know’, has disappeared
+$/example$
+$/acco$
+
+$result restricted distribution
+- typically, grammatical morphemes have restricted distributions ($see $down)
+
+$p=972$
+
+$reader$
+Verbs lose canonical verbal properties when they become auxiliaries. Consider
+the auxiliary _can_, which derives from the Old English main verb _cunnan_ ‘to know’.
+In Old English, _cunnan_ could be used with a noun phrase object, but today _can_
+occurs only with a verb complement: \*_I can that_ and \*_I can her_ are ungrammatical.
+$/reader$
+
+#### Loss of constituent structure in grammaticalisation
+
+constituent structure loss
+- grammaticalising structures become more tightly fused together
+- => internal constituent structure tends to **reduce**
+
+$result why?
+- chunking process, automatisation
+
+$widec$
+(several examples)
+$/widec$
+
+$p=973$
+
+$reader$
+Almost every case of grammaticalization involves such a change in constituent
+structure. When viewed in terms of a structural analysis of the successive 
+synchronic states, it is tempting to say that a **reanalysis has taken place**. For example, in
+the two cases just examined, what was a verb is reanalyzed as an auxiliary in one
+case and a preposition in the other.
+$/reader$
+
+#### Reanalysis
+
+##### Reanalysis as a consequence of grammaticalisation
+
+reanalysis
+- specific material has received a new label or constituent structure
+- => have been 're-analysed'
+
+nature of reanalysis
+- gradual!
+
+$reader$
+[The gradual nature of reanalysis] means that when grammaticalization is occurring, 
+**it may not be possible to uniquely assign elements to particular grammatical 
+categories or structures**.
+$/reader$
+
+$p=974$
+
+##### Reanalysis as a consequence of resegmentation
+
+resegmentation
+- the morphological structure of a phrase is re-interpreted
+
+$example$
+- *an ewt* -> *a newt*
+- *an ekename* -> *a nickname*
+- *a napron* -> *an apron*
+$/example$
+
+$reader$
+From the point of view of cognitive and functional theory, the whole notion of
+reanalysis must be considered **suspect** because **it assumes a grammar that allows
+only one analysis of a structure at any given synchronic stage**. However, if the
+cognitive system allows **redundancy** and **multiple coexisting analyses**, 
+then **reanalysis is accomplished by adding an _alternate_ analysis to an existing one**.
+$/reader$
+
+$p=975$
+
+### Semantic change in grammaticalisation
+
+#### Bleaching or generalisation
+
+the role of **frequency**  
+(Haiman 1994)  
+(Bybee 2003)
+- frequency increases in themselves lead to bleaching through the habituation process
+
+$reader$
+Just as swear words lose their sting with repetition, so **grammaticalizing constructions
+come to express less meaning as they are used more**. As a result, they become
+**applicable in more contexts**, and this **further depletes their meaning**.
+$/reader$
+
+bleaching
+- not a *process*, but rather a **result**
+
+#### Metaphor as a mechanism of change
+
+metaphor as a driving factor
+- many changes of lexical meaning to grammatical meaning involve a **metaphorical process** (Sweetser 1990)
+
+$wide$
+- $result transfer of reference from one semantic domain to another, while preserving aspects of the structural relations present in the original meaning
+$/wide$
+
+$reader$
+For instance, the phrase _the head of X_ expresses a relation (with reference to humans)
+between a part of an object that is at the top in relation to the whole object. When
+this schematic relation is extended to objects other than humans, a metaphorical 
+extension has occurred. Now the meaning of _the head of X_ is generalized or
+bleached, since it is no longer restricted to the domain of the human body.
+$/reader$
+
+$p=976$
+
+$reader$
+In fact, it appears that **metaphorical extension is a more important mechanism
+of change in lexical semantics** than in grammaticalization.
+$/reader$
+
+#### Inference or pragmatic strengthening
+
+pragmatic inferencing
+- can *add* meaning into grammaticalising constructions
+- the speaker is able to say _less_ than he or she means
+because the addressee is able to infer the part of the meaning that is omitted (Grice
+1975)
+
+$reader$
+When a particular inference is
+frequently made in connection with a particular construction, **that inference can
+become conventionalized and thus part of the meaning of the construction**. Thus,
+the source of the new meanings that can be accrued in the grammaticalization
+process is inference-based on the context.
+$/reader$
+
+$p=977$
+
+$example$
+***Since***
+
+The conjunction _since_, which originally meant ‘from the time that’, is used in a
+temporal sense. However, since events described in temporal relation often also
+have a causal relation, that is, the first event causes the second (as in 2), and since
+speakers and addressees are usually less interested in pure temporal sequence and
+more interested in causes, a causal inference becomes conventionalized as part of
+the meaning of _since_. As a result, a sentence such as (2) can have either or both
+interpretations. In fact, the previously inferred sense can even become independent,
+leading to sentences such as (3), which has a purely causal interpretation.
+
+1.I have done quite a bit of writing since we last met <span class="feature">temporal</span>
+1.John has been very miserable since Susan left him <span class="feature">temporal/causal</span>
+1. I’ll have to go alone since you’re not coming with me <span class="feature">causal</span>
+$/example$
+
+#### Metaphor or metonymy
+
+$widec$
+(skipping)
+$/widec$
+
+$p=979$
+
+### Conclusion
+
+#### Cognitive <-> generative
+
+cognitive view
+- language change is inspired by **cognitive** and **functional** considerations
+- usage gradually changes with a concomitant change in cognitive representation (can also be gradual)
+
+$widec$
+$contrast
+$/widec$
+
+Generative Grammar view
+- language change = change in the grammar
+
+$p=980$
+
+#### Replication
+
+----
+$widec$
+(William Croft 2000)
+$/widec$
+----
+
+**1.** 'normal' replication
+- utterances are replicated exactly
+
+**2.** 'altered' replication
+- leads to the development of **contextual variants** and the **gradual rearrangement of the
+relation between the conventional structures and their functions**
+
+$info$
+The mechanisms
+by which utterances undergo altered replication are precisely the mechanisms of
+change that have been discussed in this chapter:
+
+- automatisation
+- gestural reduction
+- analogical reformation
+- categorisation
+- metaphorical extension
+- pragmatic inferencing
+- generalisation
+$/info$
+
+$result invisible hand (Keller 1994)
+- not particularly a teleological process
+- rather: language change is the *result* of all these processes
+
+#### Lexical diffusion
+
+lexical diffusion
+- change gradually diffuses across the mental representations of language
+
+$reader$
+High-frequency items and constructions undergo reductive
+changes quickly, including phonological reduction, syntactic 
+reduction (loss of constituent structure), and semantic change 
+(generalization, etc.). But in the presence of
+competition from analogy of newer constructions, high-frequency instances hold
+out: high-frequency verbs resist regularization, and high-frequency instances 
+of constructions (e.g., _I know nothing_ ...) resist reformulation in the new pattern (_I don’t
+know anything_ ...). Thus, diachrony provides us with evidence for the interrelation
+of lexicon and grammar and also with evidence for the nature of the cognitive 
+representation of phonological and grammatical form.
+
+$todo tabel maken ofzo
+$/reader$
+
+#### Gradual change
+
+gradual change
+- => all the categories of grammar must be **gradient**
+
+$p=981$
+
+unidirectionality
+- change is typically **unidirectional**
+
+### Future directions
+
+$reader$
+Clearly, reference to cognitive factors brings us closer to explanation in both
+the diachronic and synchronic realms. In diachrony, it is of utmost importance to
+emphasize not just the _motivation_ for change, but also the _mechanism_; that is, in
+order to establish why changes occur in a certain direction, 
+**we also have to understand_ how_ changes occur**.
+$/reader$
+
 ## Lexical variation and change
