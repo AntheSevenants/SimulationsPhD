@@ -43,7 +43,7 @@ Three fundamental characteristics
 $/widec$
 ----
 
-1. the primacy of semantics in linguistic analysis
+1. the primacy of **semantics** in linguistic analysis
 	- the basic function of language involves **meaning**
 	- if the primary function is language is categorisation, then **meaning must be the primary linguistic phenomenon**
 2. the encyclopedic nature of linguistic meaning
@@ -1382,7 +1382,7 @@ $result lexicon component
 
 $p=465$
 
-$resut linking rules
+$result linking rules
 - 'rules' tying the different levels together
 - e.g. semantic participant roles in lexical semantic representations of verbs linked to semantic participant roles in lexical semantics
 
@@ -1612,7 +1612,7 @@ $acco$
 $example$
 **Examples**
 
-- the use of the definite article to indicate that the object referred to is known to both speaker and hearer) 
+- the use of the definite article to indicate that the object referred to is known to both speaker and hearer
 - the use of a construction such as _What a beautiful cat!_ to convey the speaker’s surprise
 $/example$
 $/acco$
@@ -1681,7 +1681,6 @@ $result whole symbolic link
 
 $result semantic relation
 - the relation between the two syntactic elements
-- 
 
 $result semantic relation
 - the relation between the two semantic components
@@ -2090,6 +2089,12 @@ usage-based model
 - specifically: **frequency of use** and **similarity of form and meaning**
 
 #### Basic principles
+
+----
+$widec$
+<span style="color: red">**Very important**</span>
+$/widec$
+----
 
 $acco$
 $deflist$
@@ -3855,7 +3860,385 @@ Clearly, reference to cognitive factors brings us closer to explanation in both
 the diachronic and synchronic realms. In diachrony, it is of utmost importance to
 emphasize not just the _motivation_ for change, but also the _mechanism_; that is, in
 order to establish why changes occur in a certain direction, 
-**we also have to understand_ how_ changes occur**.
+**we also have to understand _how_ changes occur**.
 $/reader$
 
+$p=988$
+
 ## Lexical variation and change
+
+### Introduction
+
+$p=989$
+
+[ Semasiology <-> onomasiology (Baldinger 1980 : 278) ]
+|semasiology|onomasiology|
+|---|---|
+|considers the **isolated word** and the way its meanings are manifested|looks at the **designations of a particular concept**|
+|*meaning*|*naming*|
+
+### The contribution of cognitive linguistics to diachronic semasiology
+
+----
+$widec$
+There are **two ways** in which Cognitive Linguistics contributes to diachronic semasiology
+$/widec$
+----
+
+**1.** metaphor and metonymy
+- CL employs metaphor and metonymy as mechanisms of semantic change
+
+**2.** prototype structure
+- CL exploits the prototype-based structure of polysemy
+
+#### Polysemy
+
+----
+$widec$
+Four features of synchronic prototype structure
+$/widec$
+----
+
+**1.** degree
+- prototypical categories exhibit **degrees of typicality**
+- not every member is equally representative of a category
+
+**2.** family resemlance
+- prototypical categories exhibit a **family resemblance
+structure**
+- their semantic structure takes the form of **a radial set** of clustered and overlapping readings concentrating around one or more salient readings
+
+$p=990$
+
+**3.** blurry edges
+- prototypical categories are **blurred at the edges**
+- there may be entities whose membership of the category is **uncertain**, or at least **less clear-cut** than that of the bona fide members
+
+**4.** no attributes
+- prototypical categories cannot
+be defined by means of a **single set of criterial** (necessary and sufficient) **attributes**
+
+$widec$
+$down
+
+now, we convert each of the four characteristics into a statement about the structure of semantic change
+$/widec$
+
+#### Modulation of core cases
+
+$reader$
+By stressing the extensional nonequality of lexical semantic structure, prototype
+theory highlights the fact that changes in the referential range of one specific word
+meaning may take the form of modulations on the **core cases** within that referential
+range. In other words, changes in the extension of a single sense of a lexical item are
+likely to take the form of **an expansion of the prototypical center of that extension**.
+$/reader$
+
+$wide$
+- $result prototype theory provides a rather predictable **trajectory** for semantic change
+$/wide$
+
+$p=991$
+
+#### Development of radial sets
+
+1. the structure of semasiological change as a whole is one of
+overlapping and interlocking readings
+	- specifically, a novel use may have its **starting
+point in several existing meanings** at the same time. 
+2. there are **differences in structural **weight among the readings of an item
+	- specifically, there are peripheral
+meanings that do not survive for very long next to more important meanings that
+subsist through time
+
+#### Semantic polygenesis
+
+blurry meaning
+- highlights incidental, **transient changes** of word meaning
+
+$result semantic polygenesis
+- one and the same reading of a particular
+lexical item may come into existence more than once in the history of a word, each
+time on an **independent basis**
+
+$reader$
+Specifically, when the same marginal meaning occurs at several points in
+time that are separated by a considerable period, we can conclude that the discontinuous
+presence of that meaning is not due to accidental gaps in the available
+textual sources, but that the meaning in question must actually have come into
+existence independently at the two moments.
+$/reader$
+
+#### Semantic change from subsets
+
+non-discreteness
+- highlights the encyclopedic nature of changes in word meaning
+
+$p=993$
+
+### From semasiology to onomasiology
+
+categorisation and onomasiology
+- a logical step
+- "the basic act of
+categorization is, after all, the **onomasiological choice of a category** to express a
+certain idea"
+
+#### Structural and pragmatic onomasiology
+
+|structural|pragmatic|
+|---|---|
+|"structuralist meaning network"|contextualised choices|
+|_structure_|_use_|
+
+#### Qualitative and quantitative aspects
+
+$p=994$
+
+|qualitative|quantitative|
+|---|---|
+|what kinds of (semantic) relations hold between the lexical items in a lexicon?|are some categories cognitively more salient than others|
+|field relationships, taxonomies, lexical relations such as antonymy|are particular categories more likely to be chosen for designating things out in the world than others?|
+
+#### Referential and non-referential types of meaning
+
+|referential|non-referential|
+|---|---|
+|denotational|connotational|
+|descriptive aspects|emotive, stylistic, discursive value|
+
+$info$
+The ties
+between nonreferential meaning and onomasiology are perhaps even stronger than
+those between nonreferential meaning and semasiology.
+$/info$
+
+$reader$
+The very definition of nonreferential meaning involves the concept of
+onomasiological alternatives. Indeed, we invoke the notion of nonreferential meaning
+precisely when a word’s communicative value differs from that of a referential
+synonym or when its communicative value cannot be defined in referential
+terms.
+$/reader$
+
+$p=995$
+
+#### Lexicogenetic mechanisms and sociolexicological mechanisms
+
+lexicogenesis
+- all mechanisms for introducing new "word form–word meaning" pairs
+- so: all the traditional mechanisms
+	- word-formation, word creation (the creation of entirely new roots), borrowing, blending, truncation, ellipsis, folk etymology,
+and others
+- introduce new items into the onomasiological inventory
+of a language
+
+sociolexicology
+- studying how onomasiological changes spread through a speech community
+
+$reader$
+**On the diffusion of new words**
+
+We might say, for instance, that German borrows Computer
+from English. But the language as such is obviously not an anthropomorphic agent:
+what happens is that individual language users act in a specific way (say, by using a
+loan word) and that these individual acts lead to changes at the level of the language
+as a whole—that is, at the level of the speech community. This phenomenon has
+revealingly been described by Keller (1990), who suggests that linguistic change may
+be characterized as an ‘‘invisible hand’’ process—a notion he borrowed from
+economics. As such, changes spread through a linguistic community as if guided by
+an invisible force, whereas the actual process involves a multitude of communicative
+acts.1 The invisible hand metaphor, however, stops short of indicating precisely
+how the transition from the individual level to the global level occurs. What
+exactly are the mechanisms that enable the cumulative effects? Logically speaking,
+two situations may occur: either the changes work in parallel, or they take place
+serially. The first situation occurs when members of a speech community are
+confronted with the same communicative, expressive problem and independently
+choose 
+
+the same solution. The introduction of Computer as a loan from English into
+German (and many other languages) may at least to some extent have proceeded in
+this way. More or less simultaneously, a number of people face the problem of giving
+a name to the new thing in their native language; independently of each other, they
+then adopt the original name that comes with the newly introduced object. The
+second type occurs when the members of a speech community imitate each other.
+For instance, when one person introduces a loan word, a few others may imitate
+him or her, and they in turn may be imitated by others, and so on. In the same way,
+the overall picture of a traffic jam is one in which a great number of cars appear to
+be halted by an invisible hand, while what actually happens is a cumulative process
+of individual actions: when the first car brakes to avoid a dog running over the
+highway, the car behind it has to slow down to avoid an accident, and so on.
+$/reader$
+
+### The contribution of cognitive linguistics to onomasiology
+
+$p=998$
+
+$widec$
+(not specifically interesting)
+$/widec$
+
+$p=1000$
+
+### Sociolexicology and beyond
+
+|conceptual onomasiological variation|formal onomasiological variation|
+|---|---|
+|the choice of different conceptual categories|the use of different names for the same conceptual category|
+
+$reader$
+- The names _jeans_ and _trousers_ for denim leisure wear trousers—to give an
+example—constitute an instance of conceptual name variation, because they **represent
+different categories**
+- _jeans_ and _blue jeans_, however, represent no more than
+different (but synonymous) names for the same category
+$/reader$
+
+$p=1001$
+
+#### A case study of conceptual onomasiological variation
+
+$reader$
+Grondelaers and Geeraerts (1998) investigate how avoidance strategies influence the
+choice of cancer designations. More particularly, they are interested in finding out
+how the emotive value of, on the one hand, generic or specific cancer terms such as
+cancer or breast cancer and, on the other, vague terms such as disease or illness influence
+lexical choice; it is indeed to be expected that in some contexts the vaguer
+terms will be preferred for euphemistic reasons.
+$/reader$
+
+$reader$
+They looked for quantitative support for the hypothesis that **vague terms
+for cancer are favored in nonscientific contexts**, namely, articles which do not or
+do not primarily report on medical topics, and in **personalized contexts**, that is,
+contexts in which the effects of cancer on individual patients are depicted (in contrast
+with generic contexts, in which cancer is referred to in general).
+$/reader$
+
+$reader$
+As predicted, average hyperonym ratios are
+indeed significantly higher in nonmedical contexts (0.647>0.126) and personalized
+contexts (0.837>0.147), which seems to **confirm the hypothesis**.
+$/reader$
+
+$p=1002$
+
+#### A case study in formal onomasiological variation
+
+$p=1003$
+
+----
+$widec$
+Geeraerts, Grondelaers, and Speelman (1999):  
+Can we quantify the relationship
+between Belgian Dutch and Netherlandic Dutch (and the internal stratification of
+both varieties)?   
+Can we calculate how close or how distant both varieties of Dutch
+are with regard to each other?
+$/widec$
+----
+
+onomasiological profile
+- the set of synonymous names for a concept in a source
+
+[ Onomasiological profiles for the concept ‘_overhemd_’ ‘shirt’ in the Belgian and Netherlandic data (1990) ]
+|concept|B90|N90|
+|---|---|---|
+|hemd|31%|17%|
+|overhemd|69%|46%|
+|shirt|0%|37%|
+
+$p=1004$
+
+$widec$
+The partial overlap between the profiles is quantified by
+**counting the naming instances for which there is a counterpart in the other profile**.
+$/widec$
+
+$reader$
+In table 37.3, however, 14 instances of _hemd_ in B90 have no counterpart in
+N90; 23 Belgian _overhemden_ have no Netherlandic counterpart; and there are no
+Belgian counterparts for the 37 Netherlandic _shirts_.
+
+----
+
+- I think Geeraerts got his numbers mixed up, but he does mean generally what you can find in the tables.
+$/reader$
+
+$p=1005$
+
+----
+With respect to the status and the development
+of Belgian Dutch, two uncontroversial hypotheses can be found in the
+linguistic literature.
+---
+
+**1.** ==diachronic convergence==
+- the standardization process in Flanders is
+characterized by an explicit normative orientation toward Netherlandic Dutch
+- (today, though, that is a lie and you know it!)
+
+**2.** ==larger synchronic distance==
+- the differences
+between regional and supraregional registers are much larger in Belgium than in the
+Netherlands
+- (again, a very contested statement!)
+
+$reader$
+- **Diachronically**, convergence and
+divergence can be quantified as increasing or decreasing uniformity.
+- **Synchronically**, the larger distance between national and local language we expect in Belgian Dutch
+will manifest itself in a smaller uniformity between magazine and shop window
+materials in Belgian Dutch than in Netherlandic Dutch.
+$/reader$
+
+[ U' values comparing Belgium and the Netherlands (1950–1970–1990) and comparing written data from magazines and newspapers with local shop window data (1990) ]
+|ratio|uniformity|
+|---|---|
+|B50/N50|69,84|
+|B70/N70|74,59|
+|B90/N90|81,70|
+|B90/B~sw~90|45,90|
+|N90/N~sw~90|67,75|
+
+$wide$
+- B50 stands for ‘Belgian data from 1950’
+- N50 stands for ‘Netherlandic
+data from 1950’
+- B~sw~90 refers to the shop window materials in Belgium, in
+contrast with B90, which stands for the data taken from magazines and newspapers.
+$/wide$
+
+$p=1005-1006$
+
+$reader$
+The data in table 37.4 unambiguously confirm the diachronic as well as the
+synchronic hypothesis.
+
+- Diachronically, the increase in uniformity between Belgian
+and Netherlandic Dutch suggests an evident lexical convergence between both
+varieties.
+- Synchronically, the delayed or unfinished standardization of Belgian Dutch
+manifests itself in a distinctly lower uniformity between the Belgian magazine
+and shop window data than between the Netherlandic magazine and shop window
+materials.
+$/reader$
+
+$p=1006$
+
+### Beyond sociolexicology
+
+----
+$widec$
+Developments within Cognitive
+Linguistics that are likely to contribute to an increased interest in sociolinguistic
+research
+$/widec$
+----
+
+1. there is the interest in **cultural models** and the way in which they may
+**compete** within a community
+2. a number of researchers have started to investigate social variation
+**outside the lexical realm**
+3. a growing tendency in the theoretical conception of language
+entertained by Cognitive Linguistics to stress the **social nature** of language
