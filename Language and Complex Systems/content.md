@@ -557,9 +557,604 @@ $p=36$
 
 ## Linguistics, science, the humanities, and complex systems
 
+$widec$
+skipped
+$/widec$
+
 $p=56$
 
 ## Usage-based linguistics and complex systems
+
+$p=57$
+
+### Paul Hopper (1987)
+
+$reader$
+We will
+see that a complete single grammar for a language could _never_ be motivated by
+detailed observation of speech production, because **the patterned distribution
+of features and their variants that always emerges from the complex system of
+speech cannot be captured by the binary logic of formal linguistic systems**.
+
+$widec$
+(my own emphasis)
+$/widec$
+$/reader$
+
+$p=58$
+
+$reader$
+**What is grammar?**
+
+[W]hile grammar never exists as such
+in language in use, it can well exist as a **description of regularities indirectly
+derived from speech performance** by perceptual means. This is, in fact, just
+what all linguists do
+$/reader$
+
+$p=59$
+
+long tail of the A-curve
+- where older meanings/realisations are retained
+- but: also where *novel* features can be found as they enter the language
+
+### Paul Hopper and Elizabeth Traugott (1993)
+
+$widec$
+Elizabeth Traugott slander
+$/widec$
+
+$p=61$
+
+### Joan Bybee (2001)
+
+Bybee (2001) focus
+- remains on **abstract structure**
+- however: usage-based idea is 'incorporated'
+
+$result phonology
+- presented as a 'structure' on which frequency (as the result of usage) has an 'impact'
+
+$acco$
+networked units
+- Bybee presents units of the structure (words, sounds) to be stored in **networks** of related units
+
+$reader$
+In network models, internal structure is emergent – it is based on the network of
+connections built up among stored units. The stored units are pronounceable linguistic
+forms – words or phrases stored as clusters of surface variants organized into clusters of
+related words . . . Units such as syllables and segments emerge from the inherent nature
+of the organization of gestures for articulation.
+
+(Bybee 2001: 85)
+$/reader$
+$/acco$
+
+$acco$
+gradient storage
+- each unit does not have just one form, but is rather a gradient
+
+$reader$
+The view that phonological representations are self-organizing means that units of
+analysis, such as segments and syllables, are emergent units and are permitted to have
+gradient properties. This view does not insist upon one unit of uniform size for describing
+all speech, but rather proposes that the organization of linguistic material into units
+depends entirely upon the substantive properties of that material.
+
+(Bybee 2001: 86)
+$/reader$
+$/acco$
+
+$p=62$
+
+$widec$
+/!\ $down problem!
+$/widec$
+
+Bybee's a priori assumption of linguistic structure
+- "Bybee has $tt=form a judgement on (an issue or person) prematurely and without having adequate information$*prejudged*$/tt$ the outcome of emergence
+
+$reader$
+As we have seen in Chapter 1, every individual is at
+the nexus of many groups of people, regional and social, and each one of those
+groups will have its own distributional pattern of many variants for any feature
+we name.
+$/reader$
+
+$reader$
+There is no necessity to privilege the
+units that linguists normally talk about, like phonemes, which derive essentially
+from the simplifying generalization of a formal model. 
+$/reader$
+
+$p=64$
+
+$reader$
+In her 2001
+book **Bybee tried to marry simple ideas of self-organization and emergence
+from complex systems with the assumption of structure**, but she was **doomed
+to fail**, if influentially, **by her superficial use of complexity and by her failure
+to break away from the assumption of structure**.
+$/reader$
+
+$reader$
+**==Anthe summary==**
+
+To recapitulate, the issue here is that Bybee assumes there is such a thing as 'structure', while structure doesn't exist in reality according to Kretzschmar, and is actually derived from our perception of reality. At the same time, Bybee ignores the fact that an individual doesn't store '*a* grammar' in one's mind, but rather a collection of different forms and structures in an A-curve-like manner, which can be employed depending on the situation (which outs itself, for example, as social variation).
+$/reader$
+
+### Janet Pierrehumbert (2001)
+
+examplar theory
+- focus shifted back to **individuals**, **memory** and **cognitive processing of speech forms**
+
+$p=65$
+
+----
+$widec$
+Lots of important things going on here
+$/widec$
+----
+
+$reader$
+The exact phonetic details of a word’s pronunciation arise because 
+
+1. the word is retrieved from the lexicon, and 
+2. processed by the rules of constraints of the grammar 
+3. whose result (the surface phonological form of the word) is fed to a phonetic implementation
+component 
+4. [which] computes the articulatory and/or acoustic goals 
+5. which actualize the
+word as speech . . . 
+
+A second challenge arises from the fact that **differential phonetic
+outcomes relate specifically to word frequency**. Standard generative models do not
+encode word frequency.
+
+(Pierrehumbert 2001: 138)
+$/reader$
+
+$reader$
+in the exemplar model, "each category is represented in
+memory by **a large cloud of remembered tokens of that category**" (Pierrehumbert  2001: 139)
+$/reader$
+
+categorisation
+- you hear a new token and compare it to the distribution of remembered tokens
+- => goal: make the best decision on what category the new token belongs to
+
+$result influencing factors
+- what the ear can distinguish
+- how recently each exemplar was encountered
+
+$gallery port$
+**Schematic representation of categorisation structure**
+$widec$
+![Image](img$puj8)
+$/widec$
+
+$todo this reminds me of the language acquisition paper from Speech Science. let's look that up again later
+
+$reader$
+The new token is symbolized
+by the asterisk at the bottom of the figure, and the task is to decide whether
+the token belongs to the category for the /ɛ/ phoneme or for the /ɪ/ phoneme
+along the one dimension presented here, F2. In this ambiguous case, the new
+token is closer to the main distribution of /ɪ/ remembered tokens, even though
+the actual distribution overlaps, and so it would be assigned to the /ɪ/ category.
+$/reader$
+$/gallery port$
+
+$p=66$
+
+multidimensionality
+- any exemplar can be a member of more than one classification scheme at the same time
+- => one exemplar might be included
+in classifications for a phoneme, a word, female speech, and “Mom” all at the
+same time
+
+$reader$
+The exemplar approach associates with each category of a system a cloud of detailed
+perceptual memories. The memories are granularized as a function of the acuity of the
+perceptual system (and possibly as a function of additional factors). **Frequency is not
+overtly encoded in the model**. Instead, it is **intrinsic** to the cognitive representations for
+the categories. **More frequent categories have more exemplars and more highly activated
+exemplars than less frequent categories** (Pierrehumbert 2001 : 142).
+$/reader$
+
+----
+$widec$
+Benefits of the exemplar model
+$/widec$
+----
+
+1. improved description of detailed phonetic knowledge that speakers have about their language
+2. the mechanism for decisions about categories
+3. the accommodation of frequency to some degree
+
+----
+$widec$
+Problems with Pierrehumbert model
+$/widec$
+----
+
+**1.** it is too simple
+- actual categorisation takes place among many more categories (several dozens!)
+
+**2.** the pattern is wrong
+- (the frequencies in $see $up are 'not what we would expect from a complex system'
+
+$p=67$
+
+<span style="color: red;">**3.** statistical learning in language acquisition</span>
+- many studies in language acquisition show the importance of distributional learning and transitional probabilities
+- as such, the simple Pierrehumbert model of $see $up is hard to reconcile with this fundamental property of language learning and internal representation
+
+$p=68$
+
+$result role of frequency
+- still important, but more so in the role it plays within transitional and distributional learning
+
+**4.** phoneme system
+- such a simplistic label system does not necessarily exist
+
+**5.** prototype model
+- there is a central tendency among the exemplars that could be computed as an average
+- there is a a Gaussian distribution
+- => ignores the A-curve
+
+$reader$
+While Pierrehumbert’s exemplar model makes an improvement in the management of 
+frequency information over Bybee’s earlier high-level generalizations,
+it does not yet get all the way to complex systems because **it addresses neither
+the nonlinear distribution** of realizations **nor their scale-free distribution**.
+$/reader$
+
+### Adele Goldberg (2006)
+
+key point
+- “all levels of grammatical analysis involve **constructions**: learned **pairings of form
+with semantic or discourse function**, including morphemes or words, idioms,
+partially lexically filled and fully general phrasal patterns” (Goldberg 2006: 5)
+
+$p=69$
+
+usage-based idea
+- very well represented here!
+
+$reader$
+One particular verb accounts for the lion’s share of tokens of each argument frame
+considered in an extensive corpus study . . . **The dominance of a single verb in 
+the construction facilitates the association of the meaning of the verb in the construction with the
+construction itself**, allowing learners to get a “fix” on the construction’s meaning. . . . In
+this way, grammatical constructions may arise _developmentally_ as **generalizations** over
+lexical items in particular patterns.
+$/reader$
+
+$result traditional linguistic practice
+- still lingers in "grammatical constructions" as the outcome of "making generalisations"
+- for the same reason as Bybee in $see $up
+
+----
+$widec$
+The good
+$/widec$
+----
+
+**1.** generalisation
+- distributional effect that arises from a particular group of speakers is captured
+- connected to individual cognitive development
+
+**2.** association of constructions with cognitive processing
+- connects construction grammar with exemplar theory (e.g. Bod 1998; Skousen 1989)
+
+**3.** free manner of categorisation
+- parallels exemplar theory
+- grammatical forms can now also be 'categorised' (in addition to just speech sounds)
+- avoids the reification of traditional categories
+
+$p=70$
+
+----
+$widec$
+The bad
+$/widec$
+----
+
+$wide$
+it just doesn't go far enough
+$/wide$
+
+### Michael Tomasello (2003)
+
+$acco$
+view on grammar
+- an inventory of constructions
+
+$reader$
+“A plausible way to think of mature linguistic competence, then,
+is as **a structured inventory of constructions**, some of which are similar to many
+others and so reside in a more core-like center, and others of which connect to
+very few other constructions (and in different ways) and so reside more towards
+the periphery.”
+
+(2003: 5–6)
+$/reader$
+$/acco$
+
+$acco$
+recurrence
+- an important process for the building of 'language'
+- but: complex systems are never mentioned
+$/acco$
+
+$widec$
+(some language acquisition data to prove a point -- nothing special)
+$/widec$
+
+$p=73$
+
+### Nick Ellis and Diane Larsen-Freeman (2009)
+
+$reader$
+A usage-based theory of grammar in which the cognitive organization of language is
+based directly on experience with language. Rather than being an abstract set of rules or
+structures that are only indirectly related to experience with language, we see grammar
+as a network built up from the categorized instances of language use . . . The basic units
+of grammar are constructions, which are direct form-meaning pairings that range from
+the very specific (words or idioms) to the more general (passive construction, ditransitive
+construction), and from very small units (words with affixes, _walked_) to clause-level
+or even discourse-level units . . . Because grammar is based on usage, it contains many
+details of co-occurrence as well as a record of the probabilities of occurrence and 
+cooccurrence. The evidence for the impact of usage on cognitive organization includes
+the fact that language users are aware of specific instances of constructions that are
+conventionalized and the multiple ways in which frequency of use has an impact on
+structure.
+$/reader$
+
+usage-based linguistics ideas
+- constructions as the basic unit
+- "record of probabilities " -> ~= exemplar theory
+- network built from categorised instances of use
+
+their definition of grammaticalisation
+- the universal process that describes the operation of the complex adaptive system of speech
+
+$p=74$
+
+$reader$
+Language as a [complex adaptive system] of dynamic usage and its experience involves
+the following key features: 
+
+1. The system consists of **multiple agents** (the speakers in
+the speech community) **interacting** with one another. 
+2. The system is **adaptive**; that is,
+speakers’ **behavior is based on their past interactions**, and current and past interactions
+together **feed forward into future behavior**. 
+3. A speaker’s behavior is the **consequence
+of competing factors** ranging from perceptual mechanics to social motivations. 
+4. _The structures of language_ emerge from **interrelated patterns of experience, social interaction, and cognitive processes**.
+
+(Ellis and Larsen-Freeman 2009a: 2)
+$/reader$
+
+$result *structures of language*
+- still, prejudgement of the outcome of emergence
+- => grammar shown as a *state* instead of a network/processing/ongoing thing
+
+language change
+- propelled by **social changes**
+- cause the selection mechanism to skew towards a new focal point
+
+$result problem
+- "freezing" -> not enough attention given to the dynamic aspect of complex systems
+
+$reader$
+preference for, or “fixation” of, a grammatical state
+**takes the dynamic movement of the complex system and freezes it**, so that one
+variant of a feature becomes “grammatical” in the sense of **having been selected**
+$/reader$
+
+$p=76$
+
+$reader$
+[F]requency distributions occur for any constructions we decide to
+nominate, but **linguists are the ones who create the categories**, who make the
+grammar. The operation of complex systems does not create a network out of
+which we observe a state as an object. **<span style="color: red;">The complex system merely creates a
+nonlinear frequency distribution, and linguists _think_ that they see a grammar
+in the distribution after the fact.</span>**
+$/reader$
+
+### Joan Bybee (2010)
+
+$reader$
+**Language as a ==complex adaptive system==**
+
+When linguistic structure is viewed as **==emergent== from the repeated application** of 
+underlying processes, rather than given a priori or by design, then **language can be seen as
+a ==complex adaptive system==** . . . The primary reason for viewing language as a complex
+adaptive system, that is, as being more like sand dunes than like a planned structure,
+such as a building, is that **language exhibits a great deal of variation and gradience**.
+
+- **==Gradience==** refers to the fact that **many categories of language or grammar are difficult
+to distinguish**, usually **because change occurs over time in a gradual way**, moving an
+element along a continuum from one category to another . . . 
+- **==Variation==** refers to the fact
+that the **units and structures of language exhibit variation in synchronic use**, usually
+along the continuous paths of change that create gradience.
+
+(Bybee 2010 : 2)
+$/reader$
+
+$p=77$
+
+$result ==gradience==
+- adaptation of categories over time
+
+$result ==variation==
+- the simultaneous presence of alternative usages at any given time
+
+$reader$
+**Constructions** also have **exemplar representations**, but these will be **more complex**,
+because, depending upon how one defines them, most or all constructions are **partially
+schematic** – that is, they have **positions that can be filled by a variety of words or phrases**.
+$/reader$
+
+----
+$widec$
+Problems
+$/widec$
+----
+
+**1.** prototypes
+- still there (2010: 106–114)
+
+**2.** grammaticalisation
+- still treated as the process “by which
+grammatical items and structures are created” (2010: 106)
+
+**3.** traditional categories
+- still used
+- English auxiliary *can*, top-level generalisations ... (which thus according to Kretzschmar don't exist)
+
+**4.** grammaticalisation paths as strange attractors
+- does not apply the technical term "strange attractor" from complexity science in the way it is usually used for chaotic patterns
+- (this is something I also noticed, nvda.)
+
+$p=78$
+
+$reader$
+Bybee does not yet deal extensively with
+scaling or with characteristic frequency profiles. She has become the most
+advanced advocate of complex adaptive systems among usage-based linguists
+along with Ellis and Larsen-Freeman, and **yet her work still has a way to go
+to escape from the Scholasticism of linguistics** that Walker Percy raised, and
+to become more like the Galileo that Percy said we needed. As with the Five
+Graces, Bybee continues to carry old baggage from formal linguistics.
+$/reader$
+
+### Usage-based linguistics and complex systems
+
+----
+$widec$
+What have we learned about usage-based linguistics and complex systems?
+$/widec$
+----
+
+$acco$
+**1.** non-linear distributions
+- we can expect **non-linear distributions** of variants for **_any_ linguistic feature**
+- speech sounds, words, constructions ...
+$/acco$
+
+$acco$
+**2.** linguistic categories are not naturally given and discrete
+- over time, expressions change in such a way that any boundaries for categories that we may wish to assert at one moment
+may well be breached a moment later
+
+$reader$
+Exemplar theory suggests a cognitive
+process by which we can build frequency profiles for speech sounds, although
+the process of categorization remains an issue there. Still, **we need to use
+categories so that we can count variant expressions and observe the non-linear
+distributions**. The idea of **“constructions”** is **perfect** for this purpose, since
+**the use of constructions does not entail a commitment to a fixed hierarchy of
+categories**, and it may be applied to features as small as speech sounds or as large
+as discourse patterns. 
+$/reader$
+
+$warn$
+There is no reason that we cannot use traditional terms
+like “noun” or “verb” or “ditransitive” to name them, as long as we do not invoke
+an entire hierarchical system when we do so.
+$/warn$
+
+grammaticalisation as defined by Hopper (1987)
+- a process of **continual movement** that is
+**contingent** on time, place, and circumstance and that does **_not_** allow grammar
+ever to be **directly observable**
+- does not translate into categories for any state of any language
+
+$reader$
+Neither does the nonlinear distribution constitute evidence
+that there is a particular cause for the top-ranked variant to be where it is. The
+complex interaction of recurrence, frequency, and setting for language use rules
+out any simple cause for the state of a feature or language at any given time,
+except to say that **the process of the complex system of speech _always_ creates
+nonlinear distributions**.
+
+$widec$
+(my emphasis)
+$/widec$
+$/reader$
+$/acco$
+
+$p=79$
+
+$acco$
+**3.** scaling
+- an unavoidable property of the complex system of speech
+- (not really sure what he means here)
+
+$reader$
+If we take care to **match the
+assessments we make to the particular populations** from which our data comes,
+we can make better generalizations, whether for a language as a whole, for
+national or regional varieties, for social groups, or for particular kinds of texts.
+The complex interaction of recurrence, frequency, and setting for language look
+different from every point of view at every scale of analysis.
+$/reader$
+$/acco$
+
+$acco$
+**4.** speakers as agents
+- speakers have a lot of **choice** in what they say and how they say it
+- no _single_ 'grammar' can describe this complexity
+
+$reader$
+When we are aware of the magnitude of the distributional problem, we
+certainly know that <span style="color: red;">**whatever experiment we conduct will never be enough to
+give us the kind of big-picture answers that formal linguists have generated**</span>.
+$/reader$
+$/acco$
+
+$widec$
+$down
+$/widec$
+
+big typological conclusion
+- there is really only one language, "the human language"
+- the phenomena that we have perceived as different languages are actually levels of scale within the
+overall complex system of human language
+
+$p=80$
+
+$reader$
+If we stop trying to bring along the old baggage
+of fixed grammars and selected usages, we are free to choose constructions to
+count and free to see nonlinear frequency patterns wherever they occur.
+$/reader$
+
+$result constructions
+- there are infinite constructions, but *that is the entire points*!
+- => there *is* no overarching grammar
+
+$reader$
+Every
+experiment that we conduct, if it adequately describes the constructions it studies and the population of speakers who use them, makes another contribution
+to our knowledge of the complex system of language in use.
+$/reader$
+
+$reader$
+What we stand to gain more generally by such repeated studies,
+even though we know in advance that studies at different scales of analysis
+will not be comparable in their findings, is **a new understanding of the 
+operation of complex systems in human culture**. **==The big picture is not a grammar==,
+but instead a new way of understanding the humanities as the emergence of
+linguistic and cultural patterns out of ==continual human interaction==**. Continual
+movement at every level of scale is crucial to that understanding. 
+$/reader$
 
 $p=81$
 
