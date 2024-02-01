@@ -1160,13 +1160,371 @@ $p=81$
 
 ## Grammar and complex systems
 
+$reader$
+The most important point is that **constructions are** nothing more or less than ==**patterns of
+usage**==, which may therefore become relatively abstract if these patterns include many
+different kinds of specific linguistic symbols. **But never are they empty rules devoid
+of semantic content** of communicative function. In usage-based approaches, countless
+rules, principles, parameters, constraints, features, and so forth are the formal devices
+of professional linguists; they simply do not exist in the minds of speakers of a natural
+language.
+
+(Tomasello 2003 : 100)
+
+$widec$
+(my emphasis, it's not clear what the last two sentences mean)
+$/widec$
+$/reader$
+
+$p=82$
+
+Kretzschmar POV
+- we can accommodate **more than one theory of grammar** in the environment for language study that we have inherited
+
+$p=83$
+
+### Zipf's law and the 80/20 rule
+
+$p=84-85$
+
+$gallery port$
+$widec$
+![Image](img$v5u7)
+![Image](img$yn0r)
+$/widec$
+$/gallery port$
+
+$p=84$
+
+$reader$
+Let us say that each of the thirty gradations on the PlanetMath curve
+represents one hundred different words. Then, as in Figure 4.3, the first five or
+six gradations at the left of the graph, about 500 or 600 words, account for about
+80 percent of all the running words in the text, while the remaining 24 or 25
+gradations in the long tail at the right, the other 2,400 or 2,500 different words,
+account for only about 20 percent of the running words. 
+$/reader$
+
+$p=84-85$
+
+Pareto Principle / 80/20 rule
+- 20 percent of types corresponds to 80 percent of tokens
+
+$p=86$
+
+problem with Zipf's law
+- implies that regular behavior, in nature and in language, ought to be described as a **law**
+
+$info$
+**Zipf’s formula has been superseded by,** among others, the mathematician Mandelbrot 
+(who spent his career at IBM). Mandelbrot’s improved formula (1968)
+shows that the top-ranked words on the curve deviate from the frequency that
+Zipf expected, and the lower-ranked words also deviate, owing to what he
+called “the wealth of vocabulary.”
+
+$example$
+In Linguistic Atlas survey data (not written
+words in continuous discourse but spoken words and phrases gathered in the
+field), the top-ranked variant is often three, four, five, even ten times 
+more frequent than the second-ranked variant, and we also see curves that are shallower
+than a 2:1 ratio between the first and second variant (discussed in depth in
+Chapter 7).
+$/example$
+
+$reader$
+If Zipf’s Law were really a law, in the same way that thermodynamics and gravity 
+are natural laws, then Zipf’s Law just does not work well
+enough.
+$/reader$
+$/info$
+
+$wide$
+- $result frequency is not always and exactly inversely proportional to rank
+- $result the *shape* of the curve is most important (there is room for margin)
+$/wide$
+
+### English grammar
+
+$p=89$
+
+----
+$widec$
+Traditional <-> complex-system grammar
+$/widec$
+----
+
+|traditional gramamr|complex-system grammar|
+|---|---|
+|grammar is a static structure of rules|grammar is open and dynamic|
+|grammar consists of a hierarchical arrangement of rules|grammar consists of a very large number of interactive components/agents|
+|grammar exhibits fixed relations between elements|grammar shows emergent order|
+|grammar has binary distributions|grammar has non-linear frequency distributions|
+|grammar has homogeneous unity|grammar has property of scaling|
+
+$p=91$
+
+neural network theory of activation patterns (Bermudez 2010: 215–245)
+- explains how information and its
+frequencies can be processed, without categorization into representations
+- (no further elaboration)
+
+$p=93$
+
+### Complexity science and grammar
+
+collocation slot fillers
+- *also* follow 80/20 rule
+- also show A-curve
+
+$wide$
+- $result created by **feedback**
+$/wide$
+
+$p=95$
+
+$reader$
+What the 80/20 Rule tells us about grammatical rules, then, is
+that we know in advance that **there will be exceptions**. Indeed, exceptions are
+not rare events, because we can predict that **the class of exceptions will account
+for about 20 percent of the instances** of any feature we study. Moreover, the
+**exceptions will account for about 80 percent of the different constructions
+possible** for any feature. Once we understand that the 80/20 Rule is not a
+curiosity but instead the hallmark of a complex system, we can understand
+what we take to be grammatical regularities in a different way. **Grammatical
+rules**, it turns out, are not laws but more like **guidelines**
+$/reader$
+
+$info$
+Grammatical rules are, however, more than mere suggestions because they
+have a nonlinear frequency curve behind them. Indeed, it is highly likely that
+**the 80/20 distributional pattern gave rise to the idea of grammar in the first
+place**, because **speakers of any language perceive that for any question about
+how to put words together, there will be one or a few constructions that occur
+a great majority of the time**, in the 80 percent group. The idea that there
+is a fixed objective language hierarchy, a linguistic system, originates as an
+observational artifact, something that we just perceive to be there because we
+usually do one of just a few things for any construction.
+$/info$
+
+$result "epiphenomenal" grammar (Hopper 1987)
+- our perception of grammar **arises as a secondary effect** of the complex system of speech
+	- /!\ _not_ as an intrinsic cause of how languages work
+
+$p=96$
+
+### Improved grammars
+
+----
+$widec$
+How can our knowledge of speech as a complex system help us to improve the grammars we create?
+$/widec$
+----
+
+$p=97-98$
+
+$acco$
+**1.** prescriptive rules have no foundation
+- rely on someone’s _perception_ of social acceptability
+- not routed in the A-curve of frequency
+
+$wide$
+- $result grammar handbooks (e.g. Quirk et al.) can present their work as pertaining to the 80% most frequent constructions
+$/wide$
+
+$reader$
+Instead of presenting
+rule systems that could be confused for prescriptions, the grammar would freely
+**admit its leakage** and build “exceptions” into the discussion of regularities – as
+the _Comprehensive Grammar_ already does for some rules. 
+
+(this is also already the case in the ANS for Dutch)
+$/reader$
+$/acco$
+
+$p=98$
+
+$acco$
+**2.** distinguish between language in use and rational linguistic structure
+- generativism still offers a substantially elaborated model of logical relations in language
+
+$reader$
+The 80/20 Rule suggests that there is no end to the problem of trying to write
+rules that can generate all of the acceptable sentences of the language. It cannot
+happen because of the long tail. Once we accept that infrequent constructions
+are normal parts of language in use, then we can understand that **there are
+too many constructions to accommodate in any elegant rule system**. It will,
+however, continue to be possible to write rule systems that account for the
+80 percent group in the 80/20 Rule, and that is in fact what has mostly been
+happening already. 
+$/reader$
+$/acco$
+
+$p=100-101$
+
+$acco$
+**3.** scale-free networks
+- we have to pay close attention to exactly what population of speakers or texts our grammar will apply
+- so: we need to use valid randomised statistical sampling (in order not to only query the 'grammar' of a particular group)
+
+$reader$
+**Grammars** can only be defined for the **speech of one population at
+a time** because, while the 80/20 Rule always applies, it will apply differently
+for every different population of speakers. There is ==**literally an infinite number
+of possible grammars**==, because the number of possible groupings of speakers
+along the geographical/social continuum is infinite.
+$/reader$
+
+$gallery port$
+**Longman grammar shows A-curves with different entries for different registers (p. 102)**
+
+![Image](img$yrdh)
+$/gallery port$
+$/acco$
+
 $p=105$
 
 ## Complex systems and the history of the English language
 
+$p=109$
+
+### Grammaticalisation
+
+----
+$widec$
+How to accommodate Hopper’s sense of continual movement, and still be able to describe the
+grammar of the language at any moment in time?
+$/widec$
+----
+
+$p=111$
+
+process of change
+- described as frequency change within a complex system
+
+$widec$
+$down how to deal with it?
+$/widec$
+
+1. observe the non-linear distribution and scaling properties of complex systems
+2. put the 80/20 rule to good practical use
+	- (though this is immediately dismissed -- I'm confused)
+
+$reader$
+On the other hand, in structural grammars that collect paradigmatic lists of
+possible constructions, there is no good linguistic reason to privilege the most
+common variants as having been “selected” and therefore have status as being
+“grammatical” and to relegate less-common variants to “noise” in the system.
+$/reader$
+
+$p=112$
+
+### A-curve frequency profiles
+
+$acco$
+"change" in the complex system of speech for historians
+- an alteration in frequency of any particular feature
+- *not* the selection of one form over another
+
+$example$
+The increased use of *clockwork* in the figurative sense has not eliminated the literal sense of *clockwork*, but the latter has been ousted to a certain degree. Yet it still survives in the low frequency slumber of language.
+$/example$
+$/acco$
+
+$widec$
+$down exteriorisation
+$/widec$
+
+$p=113$
+
+$acco$
+S-curve
+- a way to track feature frequency
+- has already been described for the progress of linguistic change (notably in Kroch 1989; Labov 1994: 65–67)
+
+S-curve <-> A-curve
+- "different expressions of the same basic distributional facts"
+
+$reader$
+The S-curve just **describes the successive frequencies of a single variant at different
+moments in time**. In $see $down we see two different A-curves that correspond
+to different moments in time for the same variant, and locates the position of
+the variant on each curve.
+
+$gallery$
+$widec$
+![Image](img$ngwp)
+$/widec$
+
+$widec$
+(p. 115)
+$/widec$
+$/gallery$
+$/reader$
+
+$reader$
+[T]his focus on frequency distributions,
+rather than qualitative change, also allows explicitly for what Laura Wright
+(2000: preface) has waggishly called **==“W curves”==** that describe increases and
+decreases in the frequency of the same form over time.
+
+$widec$
+(p. 115)
+$/widec$
+$/reader$
+$/acco$
+
+$widec$
+(the rest of the chapter talks about English specifically and some evolutionary things)
+$/widec$
+
 $p=131$
 
 ## Neural networks and complex systems
+
+$widec$
+(fluff)
+$/widec$
+
+$p=134$
+
+### Models in cognitive science
+
+neural networks
+- can carry information without representations
+
+$p=135$
+
+linguistic expectations
+- is our idea of storage of linguistic units influenced by the Chomskyan tradition?
+
+$p=136$
+
+$wide$
+- $result might as well be stored in a neural network
+$/wide$
+
+$widec$
+$down so
+$/widec$
+
+speech in the brain
+- a **massively interconnected** process
+
+$reader$
+Bybee’s proposal that phonological information is stored on
+the basis of words (2001) must be understood in neuroscience not as the brain
+having some single physical location to store a word, not as a representation,
+but rather as the **brain having a collection of interconnected neuronal pathways
+whose activation is related to a word**. 
+$/reader$
+
+$p=138$
+
+### Neural network simulations
+
+$widec$
+(weird things going on here)
+$/widec$
 
 $p=155$
 
