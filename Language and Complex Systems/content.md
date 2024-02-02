@@ -1530,6 +1530,429 @@ $p=155$
 
 ## Sociolinguistics, communities, and complex systems
 
+complexity science and language
+- defines the relationship between language in use and generalisations we make from it
+- make use of patterns of language as people use it
+
+sociolinguistics
+- wants to understand patterns of language **variation**
+
+### Classic North American sociolinguistics
+
+$p=156$
+
+=="coexistent systems"==
+- by William Labov
+- idea: there are parallel grammars that correspond to different social groups or environments
+
+$result language change in progress
+- sociolinguistics shows linguistic "continual readjustment in social context"
+
+$p=157$
+
+$reader$
+**Focus on _systems_**
+
+The heterogeneous character of the linguistic systems discussed so far is the product
+of combinations, alternations, or mosaics of distinct, jointly available subsystems. Each
+of these **subsystems** is conceived as a coherent, integral body of rules of the categorial,
+Neogrammarian type: the only additional theoretical apparatus needed is a set of rules
+stating the conditions for alternation.
+
+(Weinreich, Labov, and Herzog 1968: 165)
+$/reader$
+
+$p=158$
+
+variability in Labovian sociolinguistics
+- consists of "alternations" -> combinations / substitutions of **rules** from one **system** with rules of **another**
+- => no 'real' addressing of usage-based linguistics
+
+$p=159$
+
+$reader$
+If we apply a complex systems view to this
+analysis, we can see that Labov has managed the subgroups in his data but has
+not changed what he claims to be studying. He begins with the top level of
+scale, New York City. He then subtracts the black speakers so that his results
+reflect only the white speakers, no longer all of New York City. Finally, he
+subtracts the upper- and lower-class whites so that he ends up with just the
+working-class white speakers, an even smaller part of the population of New
+York City. According to the scaling property of complex systems Labov is
+entitled to examine **whichever groups of New York City speakers he wants**,
+but he is then **no longer entitled** to say that he is still talking about **New York
+City as a whole**. According to complex systems it is simply an error to think
+that the working-class speakers in New York represent the whole city.
+$/reader$
+
+$p=161$
+
+$reader$
+**Style and class**
+
+The vernacular is positioned maximally distant from the idealized norm [citations of
+J. Milroy and S. Poplack]. Once the vernacular baseline is established, the multidimensional nature of speech behavior can be revealed . . . Thus, the unmonitored speech
+behavior of the vernacular enables us to tap in to the broader dimensions of the speech
+community. In other words, the vernacular is the foundation from which every other
+speech behavior can be understood.
+
+(Tagliamonte 2006: 8)
+$/reader$
+
+$p=162$
+
+$result does the 'vernacular' exist?
+- *any* speech is variable at all times
+- there is no reason for the vernacular to be the 'most natural' speech event (Milroy & Gordon 2003)
+
+$wide$
+- => the framework is too simple to account for the _truly_ multidimensional interactions we encounter in speech
+	- no small, fixed set of coexistent
+systems could account for the **multidimensional patterning of language** in use
+from complex systems (p. 163)
+$/wide$
+
+$p=163$
+
+evolution
+- sociolinguistics moved beyond simple social groups 
+	- e.g. **social networks** and **communities of practice**
+- step in the right direction
+
+$p=164$
+
+'coexistent systems' and complex systems
+- can be seen as the *output* of complex systems
+	- "frequency-based patterns of variants for every linguistic feature for every community at every scale"
+- however: wrong to limit this to a fixed set of coexistent systems
+
+### Speech communities and populations of speakers
+
+$widec$
+skipped
+$/widec$
+
+$p=167$
+
+### New varieties
+
+$p=170$
+
+### An experiment on scale-free communities
+
+$p=172-173$
+
+A-curve
+- appears in all types of groups, regardless of what meaningful *tranche* is cut in the data
+
+$gallery port$
+$widec$
+![Image](img$buft)
+![Image](img$bk06)
+$/widec$
+$/gallery port$
+
+$p=173$
+
+[ Types of A curves ]
+|Type A|Type B|Type C|
+|---|---|---|
+|![Image](img$85tq)|![Image](img$znyl)|![Image](img$2hqe)|
+|**single** highly frequent variant|**two** highly frequent variants ("bump")|**three or more** highly frequent variants|
+|several variants with moderate frequencies||quite many variants with moderate frequencies|
+|many variants with low frequencies|||
+|long tail|||
+
+$p=174$
+
+$reader$
+Type C curves tend to occur more
+often when **the ratio of speakers per type of response is smaller**, as when the
+**number of speakers is small**, or the **data is subject to more finely graded differentiation of variation** (as for the small phonetic differences), or there is an
+**unusually large number of variants** (as for _cobbler_). 
+$/reader$
+
+$reader$
+We see that it is common, if not
+typical, for there to be **a single variant that is top ranked in all the A-curves**,
+massively more common than any other variant for the same item. However,
+at the same time, it is typically the case that there are **many other variants**,
+mostly the same ones in different subsamples, and they have different relative
+frequencies and thus different orders on the A-curve. 
+$/reader$
+
+$reader$
+Our perception of categorical differences between populations of speakers, of
+**common variants unique to particular populations**, is simply **not supported** by
+the speech production evidence.
+$/reader$
+
+$p=177$
+
+Type A
+- most common (80% of times)
+- has a very clear "top form" -> makes us perceive speech as 'categorical'
+
+other types
+- less common (20% of times)
+- do *not* have a clear "top form"
+
+$p=180$
+
+$reader$
+As reported above, we should agree with Horvath and
+Horvath (2001, 2003) that it is a basic fallacy to think that the behavior of any
+smaller group will necessarily be the same as the behavior of the larger group
+of which it forms a part, or that the behavior of any group overall will predict
+the behavior of its sub-populations. 
+$/reader$
+
+### Measurement of scale-free data
+
+$p=181$
+
+Kretzschmar, Kretzschmar & Brockman (2013)
+- **Gini Coefficient** and **Lorenz Curve** to model linguistic data
+
+$result Lorenz Curve
+- models the distribution of wealth in a society
+
+$reader$
+The members of a population are
+represented on the x-axis by rank of the amount of wealth they hold, low to high
+in order left to right, and the percentage of the total wealth of the population is
+represented on the y-axis, so that a chart represents a cumulative distribution of
+wealth in society. In practice there is always a curve that represents the relative
+inequality of wealth in a population, as opposed to the hypothetical straight
+line of perfect equality of wealth.
+$/reader$
+
+$result Gini Coefficient
+- gives proportion between actual Lorenz curve wealth and line of perfect equality
+
+$reader$
+When the Lorenz
+Curve is charted, then, the deeper the curve, the higher the Gini Coefficient, and
+the more unequal the wealth.
+$/reader$
+
+$widec$
+$down
+$/widec$
+
+$p=182$
+
+Gini for phonetic data
+- shows relative inequality of frequencies
+
+$p=183$
+
+----
+$widec$
+Issues with Gini Coefficient
+$/widec$
+----
+
+$acco$
+**1.** binning
+- how many categories do we use to divide up continuous data?
+
+$reader$
+If we consider the problem from the binning side,
+we can see that a very large number of categories, say **one category per token**,
+will not show the A-curve because it yields a linear chart with a slope of
+zero – a horizontal line. On the other hand, frequency data sorted into just
+**two categories** also gives us a line, with a **slope that depends on the difference
+between the two category values**. Thus the outer limits for the possible number
+of categories are both linear, and the nonlinear A-curve can only be observed
+when the number of categories into which the data is sorted lies between these
+two extremes.
+
+$info$
+This problem starts to make sense once you consider that speech can be expressed using formant data (F1, F2, F3) etc., and that you need to bin these values in order to compute Gini.
+$/info$
+$/reader$
+$/acco$
+
+$p=187-189$
+
+$acco$
+**2.** sample size
+- you need just a few samples per speaker
+$/acco$
+
+$p=192$
+
+usefulness of Gini Coefficients
+- work well to assess the differences in A-curves that arise
+- working with a small number of bins and a small sample is highly likely to give misleading results
+
+### Complex systems for sociolinguists
+
+$p=195$
+
+$acco$
+**1.** exact naming
+- sociolinguists need to be more exact in naming the populations of speakers for any study
+
+$reader$
+So, for example, the classic sociolinguistic
+snowball (or “friend of a friend”) method of acquiring speakers in a community
+is likely to introduce bias since the people are known to each other, prima facie
+evidence that they are involved in a social network – so that we will bemeasuring
+speech just in the social network instead of speech in the larger community.
+$/reader$
+$/acco$
+
+$acco$
+**2.** take interest in other levels of scale in which speakers participate
+- it is no longer good enough just to assume that upper-class speakers use the “standard” language
+- standard usage depends on commitment to educational institutions in which standards are transmitted
+$/acco$
+
+$p=196-197$
+
+$acco$
+**3.** use randomised sampling
+- avoid unintentional bias from groups other than the one under study
+- groups are *not* homogeneous! there are always subgroups within one group
+
+$reader$
+Having
+decided on one neighborhood, or another demographic segment, it is important
+to use randomized sampling to select participants. All members of the study
+group will also belong to other groups as well, and researchers need to avoid
+unintentional **bias** from those **other connections**. 
+$/reader$
+
+sampling recommendations
+- at least 30 observations
+- ideally: 250-300 observations
+$/acco$
+
+$p=198$
+
+$acco$
+**4.** account for non-linear frequency patterns
+- make abstractions in this way
+- do not use binary distinctions
+$/acco$
+
+$p=200$
+
+$acco$
+**5.** reanalyse old data with new insights
+- it's possible
+$/acco$
+
 $p=201$
 
 ## Postmodernism and complex systems
+
+postmodernism
+- "seeing science as *yet another story*
+
+$p=202$
+
+### Fashionable nonsense
+
+$p=203$
+
+$reader$
+Another major target of Sokal and Bricmont (1998) is what they call “epistemic relativism,” the idea that “**the truth or falsity of a statement is relative to
+an individual or to a social group**” (Sokal and Bricmont 1998: 51), and this idea
+does come closer to postmodernism. As Sokal and Bricmont point out (Sokal
+and Bricmont 1998: 52):
+
+> There is no doubt that the relativist attitude is at odds with scientists’ idea of their own
+practice. While scientists try, as best they can, to obtain an _objective_ view of (certain
+aspects of) the world [with allowance in a footnote for “nuances” of the word objective,
+as in doctrines like realism, conventionalism, and positivism], **relativist thinkers tell
+them that they are wasting their time and that such an enterprise is, in principle, an
+illusion**. We are thus dealing with a fundamental conflict.
+$/reader$
+
+$p=204$
+
+$reader$
+**Objective truth**
+
+> But why did I do it? I confess that I’m an unabashed Old Leftist who never quite
+understood how deconstruction was supposed to help the working class. And I’m a
+stodgy old scientist who believes, naively, that there exists an external world, that there
+exist objective truths about that world, and that my job is to discover some of them.
+(If science were merely a negotiation of social conventions about what is agreed to be
+“true,” why would I bother devoting a huge fraction of my all-too-short life to it? I don’t
+aspire to be the Emily Post of quantum field theory.) Sokal and Bricmont 1998: 269)
+
+While there are admitted problems with what might be “objective,” Sokal
+**insists on the objectivity of science** as the anchor that saves us from an endless
+drift of negotiation of the etiquette of truth.
+$/reader$
+
+$p=204-205$
+
+$reader$
+**Postmodernist response**
+
+Stanley Aronowitz, one of the editorial team at Social Text, does not put
+things in quite the same way. In a reply to the Sokal hoax article, he attacks the
+notion of objectivity (Aronowitz 1997):
+> So the issue is not whether reality exists, but whether knowledge of it is “transparent.”
+Herein lies Sokal’s confusion. **He believes that reason, logic, and truth are entirely unproblematic.** He has an abiding faith that through the rigorous application of scientific
+method nature will yield its unmediated truth. According to this doctrine there are
+“objective truths” since the earth revolves around the sun, gravity exists and various
+other laws of nature are settledmatters. So **Sokal never interrogates the nature of evidence
+or facts, and simply accepts them** if they have been adduced within certain algorithms
+that bear the stamp of “science.”
+
+This statement is too strong, since we have seen that Sokal is willing to admit
+that non-scientific factors could have an influence, just not the primary influence
+on changes in scientific models. Still, Aronowitz does hit the mark in saying
+that, for Sokal, the scientific method of observation and reason are beyond
+attack. He continues
+
+> The point [of studying social connections of science] is not to debunk science or to
+“deconstruct” it in order to show it is merely a fiction. This may be the postmodern
+project, but it is not the project of science studies. The point is to show **science as a
+social process**, to bring it down to earth, to remove the halo from its head. **Scientific truth
+cannot be absolute**; otherwise we might agree with those who have proclaimed the “end”
+of science. If all **knowledge**, including natural science, is **mediated by the social and
+cultural context** within which it has developed, then **its truths are inevitably relational** to
+the means at hand for knowing. In fact, in much of micro-physics what is called observation is often the effects of machine technologies, a reading of effects. But the reading
+is theory-laden. Which means **pure description based on observation is not possible**.
+Scientists require other tools such as machines, mathematics, and infer what they see
+from what they believe.
+
+This is a very strong position. To claim that the use of technology, machines,
+must mean that “pure description based on observation is not possible” is
+surely an overstatement, and to say that scientists “infer what they see from
+what they believe” is a reactionary conclusion that, setting aside the opening
+disclaimer of the paragraph, does make science into a fiction. Aronowitz ends
+with the postmodern project that he denied a few lines before. 
+$/reader$
+
+$p=207$
+
+### Postmodernism and speech
+
+$widec$
+(this is really just interesting to me and not really relevant anymore, so I stopped taking notes)
+$/widec$
+
+$p=210$
+
+$reader$
+So, it is a postmodern
+view to claim, as many of us now do, that **speech is essentially local**, and
+that **language variation begins in small groups** at the bottom of the scale-free
+network of speech that rises to broad regional and social continua of speech.
+$/reader$
+
+$p=212$
+
+$reader$
+It should be clear from this volume that **the
+only way we can understand the complex system of speech is to count tokens
+and to assemble frequency profiles for the variants of linguistic features**. 
+$/reader$
