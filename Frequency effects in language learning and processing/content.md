@@ -600,6 +600,247 @@ $/reader$
 
 $p=35$
 
+### Introduction
+
+#### The link between word frequency and reduction
+
+word frequency
+- the relative **cumulative experience** that speakers have with words
+
+$p=36$
+
+$widec$
+$down
+$/widec$
+
+word frequency and *reduction*
+- widely studied -> word frequency impacts both **diachronic change** and **synchronic production variation**
+
+$reader$
+Investigations of the processes of _**sound
+change**_ in language going back over a century 
+have noted that more **frequent words are shorter** and 
+**change more quickly** than less frequent words
+(Schuchart 1885; Zipf 1929).
+$/reader$
+
+$reader$
+In studies of _**synchronic pronunciation variation**_, 
+evidence has been offered that **higher word frequency** is associated
+with **more word reduction** in speech production, as measured by both
+categorical measures of segment reduction or deletion (Bybee 2001, 2002;
+Krug 1998; Jurafsky et al. 2001; Raymond, Dautricourt, and Hume 2006)
+and also continuous measures of reduction, including durational shortening 
+(Gahl 2008; Jurafsky et al. 2001; Pluymaekers, Ernestus, and Baayen
+2005) and some acoustic parameters (Ernestus et al. 2006; Myers and Li
+2007).
+$/reader$
+
+$widec$
+$down
+$/widec$
+
+$widec$
+how does frequency of word use contribute to the reductive process?
+$/widec$
+
+#### Footnotes on the relation between frequency and reduction
+
+other factors
+- lexical structure and class
+- extra-lexical phonological context
+- prosodic environment
+- speech rate
+- sociolinguistic factors
+- probabilistic variables
+- but: usually frequency is predictive at *some* level
+
+$reader$
+[H]owever,
+frequency effects are not ubiquitous.
+
+- For example, Pluymaekers et al.
+(2005) found that word frequency affected reduction of affix form and
+duration for most but not all of the morphologically complex Dutch
+words they studied.
+- Similarly, some of the high-frequency function words
+examined by Jurafsky et al. (2001) had low rates of reduction, despite their
+high frequency and a control for phonological context. 
+- Finally, Cohn et al.
+(2005) found no effect of word frequency on durational shortening of homophones, although Gahl (2008) did.
+$/reader$
+
+$widec$
+$down how is this possible?
+$/widec$
+
+$acco$
+**1.** methodological differences
+- sample size  (see Gahl 2008)
+- the set of factors considered in the study
+$/acco$
+
+$widec$
+$down
+$/widec$
+
+$p=37$
+
+$acco$
+**2.** likelihood
+- the likelihood that a word occurs in discourse contexts in a phonological environment that _**promotes**_ reduction (Bybee 2001, 2002; Timberlake 1978)
+
+$reader$
+- For example, the rate of word-final t/d deletion
+in English is lower for words that are more likely to occur in the context
+of a following vowel in speech (Guy 1991; Bybee 2002).
+- Similarly, reduction rates of word-initial [s] in Spanish are higher for words that are more
+likely to occur in the context of a preceding non-high vowel in speech
+(Brown 2004, 2006). 
+$/reader$
+$/acco$
+
+#### Motivation for reduction
+
+automation
+- reduction is the result of the **automation of production processes** (Bybee 2001, 2002)
+- claimed to result in more **casual, reduced forms**
+- ultimately: registered as change in lexical representation
+
+$widec$
+$down ??
+$/widec$
+
+*nature* of reduction
+- basic frequency of use should occur **uniformly** across the word
+- however: it occurs on certain segments or syllables
+
+$widec$
+$down why?
+$/widec$
+
+influence of lexical structure and discourse environments
+- leads to differential articulatory effects, automation processes (and ultimately, reduction)
+
+$wide$
+- => in a study, you have to control for all of these factors
+$/wide$
+
+$p=38$
+
+$reader$
+In the current study whether word frequency plays an independent role
+in on-line _s-_ reduction is addressed by **controlling both word frequency
+and frequency of occurrence of a word in phonological environments known
+to promote articulatory reduction of [s-]**. The effects of **other probabilistic
+measures** are also assessed, to determine whether they contribute to s- reduction. 
+Both intra- and extra-lexical phonological contexts are controlled, and
+comparison of their effects is used to determine to what extent reduction can
+be attributed to lexical representations or on-line articulatory processes.
+$/reader$
+
+### Data and methods
+
+$p=41$
+
+$reader$
+As an illustration of the measures in Table 2, consider the excerpt from
+the corpus transcription in (1).
+
+1. . . . _a mi sobrino, porque yo_ . . .  
+. . . to my nephew, because I . . .
+
+The s- word _sobrino_ in the token in (1)
+occurs 11 times in the NMCOSS corpus, giving it a frequency per million
+of 146 and a log frequency of 2.17. The preceding word bigram in this
+token is _mi sobrino_, which has a frequency in the corpus statistics of 6,
+and the frequency of the word preceding the s- word, _mi_, is 485, so that
+the predictability of _sobrino_ from _mi_ is 6/485 = .0124. The s- of _sobrino_ in
+this token is followed (word-internally) by the non-high vowel /o/, which
+is a context hypothesized to favor s- reduction. However, 
+the vowel preceding s- is the high vowel /i/ in _mi_, which is hypothesized not to favor
+reduction. Overall in the corpus the word _sobrino_ occurs after a non-high
+vowel (/o/, /a/, or /e/) only once, giving _sobrino_ a FFC of 1/11 = .091.
+The frequency with which /i/ precedes /s/ at a word boundary in the
+corpus is 407, and the log of this frequency per million phones is 2.61.
+$/reader$
+
+$p=44$
+
+### Results
+
+$p=44-45$
+
+$wide$
+- main effect of preceding and following phonological contexts of s-
+	- non-high vowels (before) predict higher reduction rates (2.41 times more likely)
+	- non-high vowels (after) predict higher reduction rates (3.03 times more likely)
+- no lexical stress on the initial syllable of an s-word predicts higher reduction (1.59 times more likely)
+- predictability hardly leads to higher reduction (1.01 times -- so 1% -- more likely)
+$/wide$
+
+$p=45$
+
+$gallery$
+![Image](img$4o7j)
+$/gallery$
+
+$p=47$
+
+### Discussion
+
+reduction effects
+- both **==extra-==** and **==intra-lexical== factors**
+- cumulative experience (frequency) factor and context
+
+$p=48$
+
+$reader$
+- <span style="color: red;">The effect of the predictability of the s- word from the preceding word was small.</span>
+- However, the effect of FFC [(frequency in a favourable context -- how often does the 
+word occur before a vowel conducive to reduction?)] was robust and confirms earlier findings that **FFC
+encourages reduction in studies that did not control other probabilistic
+factors** (Brown 2004, 2006). The effect of FFC indicates that **the _cumulative experience_ 
+of words in reducing phonological contexts of non-high
+preceding vowels results in a greater likelihood of reduction than context
+of use alone can explain**. The effect suggests that reduction of s- reflects
+changes in the lexical representations of words **through cumulative experience** 
+with these words in reductive production contexts. 
+$/reader$
+
+$p=49$
+
+$reader$
+The <span style="color: red;">failure to find any robust effects of the non-contextual word and
+phone unit probabilities</span> after controlling the contextual variables suggests
+that **<span style="color: red;">speakers are sensitive to how often a word occurs in environments that
+encourage reduction</span>**, but not measurably to non-contextual probabilistic
+measures of use. Consequently, an s- word’s frequency did not predict /s-/
+reduction.
+$/reader$
+
+$reader$
+How can <span style="color: red;">the failure to find a significant effect of word frequency</span> on 
+s-reduction in datasets analyzed be reconciled with other studies, in which
+word frequency effects on a range of reductive processes have been reported?
+
+- As noted, in most of these studies **the likelihood of a word occurring in a
+reducing environment was not controlled**. With respect to phonological
+context, the environments promoting reduction are generally identifiable,
+and tests of their importance could be readily made. 
+- However, other variables not examined in this study may also promote reduction differentially
+across the word frequency range.
+	- For example, higher rates of speech are
+associated with reduction, and words may differ in their likelihood of
+being produced at high speech rates.
+	- In addition to a direct effect of speech
+rate on reduction, **higher frequency words may, in particular, be more
+likely to be produced in contexts with higher speech rates than lower
+frequency words**. Because faster speech rates may encourage reduction,
+high frequency words would thus have a higher probability of occurring
+in this reducing environment.
+$/reader$
+
 $p=53$
 
 ## What statistics do learners track? Rules, constraints and schemas in (artificial) grammar learning
