@@ -841,36 +841,6 @@ high frequency words would thus have a higher probability of occurring
 in this reducing environment.
 $/reader$
 
-$p=53$
-
-## What statistics do learners track? Rules, constraints and schemas in (artificial) grammar learning
-
-----
-$widec$
-Vsevolod Kapatsinski
-$/widec$
-----
-
-$p=2-3$
-
-$reader$
-**Summary**
-
-Kapatsinski’s study involves a comparison of product-oriented vs.
-source-oriented generalizations by means of an artificial-language learning
-experiment. Native speakers of English are exposed to small artificial languages 
-that feature a palatalization process but differ in terms of whether
-the sound favoring palatalization is also found attaching to the sound that
-would be the result of the palatalization. The exposition to the artificial
-languages (with small interactive video-clips) favors either a source-oriented 
-generalization or a product-oriented generalization. The results
-as obtained from cluster analyses of rating and production probabilities
-provide strong support for product-oriented generalizations (esp. when
-sources and products are not close to each other).
-$/reader$
-
-$p=53$
-
 $p=109$
 
 ## Frequency, conservative gender systems and the language-learning child: Changing systems of pronominal reference in Dutch
