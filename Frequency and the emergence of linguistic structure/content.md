@@ -978,3 +978,577 @@ $p=229$
 
 ## Probabilistic relations between words: evidence from reduction in lexical production
 
+### Introduction
+
+#### Frequency and probability
+
+frequency?
+- popular enough in models of language processing
+
+$widec$
+$down
+$/widec$
+
+probabilistic information
+- only recently (2001) thought to play a role
+
+$p=230$
+
+$result goal
+- understand *many* factors influencing production variability (reduction, shortening, deletin)
+- so *both* frequency and probabilistic information
+
+$widec$
+$down
+$/widec$
+
+==_Probabilistic Reduction Hypothesis_==
+- word forms are reduced when they have a higher probability
+
+$info$
+Probability of a word is conditioned on **many aspects of its context**, including neighboring words, syntactic and
+lexical structure, semantic expectations, and discourse factors
+$/info$
+
+$info$
+This proposal thus
+generalizes over earlier models which refer only to word frequency (Zipf 1929;
+Fidelholz 1975; Rhodes 1992; Rhodes 1996) or predictability (Fowler and Housum
+1987).
+$/info$
+
+#### The role of local probabilistic relations between words
+
+probabilistic relations between words
+- words which are **strongly related** to or **predictable** from neighboring words more likely to be phonologically reduced
+- e.g. collocations (sequences of commonly cooccurring words)
+
+$widec$
+$down consequences
+$/widec$
+
+**1.** evidence for emergent linguistic structure
+- (nvda.) grammar arises from *use*
+
+**2.** probabilistic relations are represented in the minds of the speaker
+- (nvda.) transitions between words are found in the speaker mind
+
+$result results
+- the hypothesis is true
+- more probable words are more likely to be reduced
+- => probabilistic relations between words must play a role in the mental representation of language
+
+### Measures of probabilistic relations between words
+
+#### Definition
+
+==_Probabilistic Reduction Hypothesis_==
+- word forms are reduced when they are predictable or probable
+
+$p=231$
+
+#### Formal measures
+
+##### Single word
+
+$acco$
+==prior probability of a word==
+- the probability without considering any contextual factors
+- 'prior' to seeing any other information
+
+$eq$
+**Prior probability**
+
+$$
+P\left(w_i\right)=\frac{C\left(w_i\right)}{\sum_j C\left(w_j\right)}=\frac{C\left(w_i\right)}{N}
+$$
+
+$widec$
+the frequency of the word divided by the total number of word tokens
+$/widec$
+$/eq$
+$/acco$
+
+##### Previous word
+
+$acco$
+==joint probability of a word and the previous word==
+- the prior probability of the two words taken together
+
+$eq$
+**Joint probability**
+
+$$
+P\left(w_{i-1} w_i\right)=\frac{C\left(w_{i-1} w_i\right)}{N}
+$$
+$/eq$
+
+$widec$
+estimated by just looking at the relative frequency of the two words together in a corpus
+$/widec$
+$/acco$
+
+$acco$
+==conditional probability of a word and the previous word== /  
+==transitional probability==
+- the probability of a word given the previous word
+
+$eq$
+**Conditional probability**
+
+$$
+P\left(w_{i} \mid w_{i-1}\right)=\frac{C\left(w_{i-1} w_i\right)}{C\left(w_{i-1}\right)}
+$$
+
+$widec$
+counting the number of times the two words
+occur together $C\left(w_{i-1} w_i\right)$, and dividing by $C\left(w_{i-1}\right)$, the number of times that the first
+word occurs
+$/widec$
+$/eq$
+$/acco$
+
+$p=232$
+
+$info$
+**Difference between conditional and joint probability?**
+
+The conditional probability controls for the frequency of the conditioning word. For example, pairs
+of words can have a high joint probability merely because the individual words are
+of high frequency (e.g., _of the_). The conditional probability would be high only if
+the second word was particularly likely to follow the first. 
+$/info$
+
+##### Next word
+
+$acco$
+==joint probability of a word and the next word==
+- the prior probability of the two words taken together
+
+$eq$
+**Joint probability**
+
+$$
+P\left(w_i w_{i+1}\right)=\frac{C\left(w_i w_{i+1}\right)}{N}
+$$
+$/eq$
+
+$widec$
+estimated by just looking at the relative frequency of the two words together in a corpus
+$/widec$
+$/acco$
+
+$acco$
+==conditional probability of a word and the next word== /  
+==transitional probability==
+- the probability of a word given the previous word
+
+$eq$
+**Conditional probability**
+
+$$
+P\left(w_{i} \mid w_{i+1}\right)=\frac{C\left(w_i w_{i+1}\right)}{C\left(w_{i+1}\right)}
+$$
+
+$widec$
+counting the number of times the two words
+occur together $C\left(w_i w_{i+1}\right)$, and dividing by $C\left(w_{i+1}\right)$, the number of times that the following
+word occurs
+$/widec$
+$/eq$
+$/acco$
+
+##### Trigram probability
+
+==probability given _two surrounding_ words==
+- probability of the target given one word preceding and one word following the target
+
+$eq$
+**Neighbourhood probability**
+
+$$
+P\left(w_i \mid w_{i-1} \ldots w_{i+1}\right) = \frac{C\left(w_{i-1} w_i w_{i+1}\right)}{C\left(w_{i-1} \ldots w_{i+1}\right)}
+$$
+$/eq$
+
+$p=233$
+
+[ Summary of probabilistic measures and high probability examples ]
+|measure|formula|examples|
+|---|---|---|
+|relative frequency|$P(w_i)$|just, right|
+|joint of target with next word|$P(w_i w_{i+1})$|**kind** of|
+|joint of target with previous word|$P(w_i w_{i-1})$|a **lot**|
+|conditional of target given previous|$P(w_i \mid w_{i - 1})$|Supreme **Court**|
+|conditional of target given next|$P(w_i \mid w_{i + 1})$|**United** States|
+|conditional of target given surrounding|$P(w_i \mid w_{i - 1} \ldots w_{i + 1})$|little **bit** more|
+
+$info$
+If one wishes to pick a
+single measure of probability for convenience in reporting, it makes sense to pick
+one which combines several independent measures, such as mutual information
+(which combines the joint, the relative frequency of the target, and the relative frequency of the neighboring word) or conditional probability (which combines joint
+probability and the relative frequency of the neighboring word). We chose conditional probability because for this particular data set it was a better single measure
+than joint probability.
+$/info$
+
+$p=234$
+
+### Effects of predictability on function words
+
+$widec$
+Our first experiment studied the ten most frequent English function words in the
+Switchboard corpus. (These are also the ten most frequent words in the corpus.)
+$/widec$
+
+#### The function word dataset
+
+dataset
+- the ten most frequent English function words
+- _I_, _and_, _the_, _that_, _a_, _you_, _to_, _of_, _it_, and _in_
+
+$gallery port$
+$widec$
+![Image](img$9i08)
+$/widec$
+$/gallery port$
+
+$p=235$
+
+#### Regression analysis
+
+analysis
+- multiple regression
+
+$p=236$
+
+#### Control factors
+
+$widec$
+(skipped)
+$/widec$
+
+$p=237$
+
+#### Results
+
+##### Vowel reduction in function words
+
+$acco$
+conditional probability given previous word
+- added to the regression equation
+- was significant!
+- => the higher the conditional probability of the target given the _previous_ word, the greater the expected likelihood of vowel reduction in the function
+word target
+
+$reader$
+The predicted likelihood of a reduced vowel in words which were highly predictable from the preceding word (at the 95th percentile of conditional probability) was
+48 percent, whereas the likelihood of a reduced vowel in low predictability words
+(at the 5th percentile) was 24 percent.
+$/reader$
+$/acco$
+
+$p=238$
+
+$acco$
+conditional probability given next word
+- also added to regression equation
+- was also significant!
+- => the higher the conditional probability of the target given the _next_ word, the greater the expected likelihood of vowel reduction in the function
+word target
+
+$reader$
+The predicted likelihood of a reduced vowel in words which were highly predictable from the following word (at the 95th percentile of conditional probability) was
+42 percent, whereas the likelihood of a reduced vowel in low predictability words
+(at the 5th percentile) was 35 percent. Note that the magnitude of the effect was **a
+good deal weaker** than that with the previous word.
+$/reader$
+$/acco$
+
+$acco$
+conditional probability given two surrounding words
+- small, additional significant effect of preceding and following words together
+$/acco$
+
+#### Function word duration
+
+durational shortening
+- significant effect of previous *and* next word
+- (also of previous and next together)
+
+#### Independence of duration and vowel reduction
+
+reduction and probability:  
+a categorical choice?
+- either *full*, or *either reduced*
+
+$widec$
+$down
+$/widec$
+
+**no!**
+- effect of predictability on shortening is a **gradient**, non-categorical one
+
+$p=239$
+
+$info$
+It is possible, however, that the shortening effects that we observe for function
+words might be solely a consequence of the vowel reduction effects, since reduced
+vowels are indeed durationally shorter than full vowels. If shortening was only a
+consequence of vowel selection, there might be no evidence for a gradient effect of
+probability on reduction. 
+$/info$
+
+additional testing and results
+- <span style="color: red;">predictability not only affects vowel reduction, but has an additional independent non-categorical effect on word duration</span>
+
+#### The function word dataset: discussion
+
+$reader$
+The results for the function word dataset show that function words that are more
+predictable are shorter and more likely to have reduced vowels, supporting the
+Probabilistic Reduction Hypothesis. The conditional probability of the target word
+given the preceding word and given the following one both play a role, on both
+duration and deletion. The magnitudes of the duration effects are fairly substantial,
+in the order of 20 ms or more, or about 20 percent, over the range of the conditional
+probabilities (excluding the highest and lowest five percent of the items).
+$/reader$
+
+$p=239-240$
+
+$reader$
+Under one possible model of these effects, the categorical vowel reduction
+effects could be the result of lexicalization or grammaticalization leading to segmental 
+changes in the lexicon or grammar, while the continuous duration effects are
+on-line effects, perhaps mediated in part by prosodic structure, but not represented
+in lexicalized differences. 
+$/reader$
+
+$p=240$
+
+### Lexical versus collocation effects
+
+#### The problem of collocations
+
+problem
+- many of these pairs (like _sort of_ or _kind of_) might be **single lexical items** rather than word pairs (_sorta_, _kinda_)
+
+$info$
+The classification as high-probability word pairs would then stem from the fact that we rely on a purely _orthographic_ definition of a word.
+$/info$
+
+$result question
+- are our results purely lexical, rather than syntactic (word-order)?
+
+#### Solution
+
+solution
+- show that higher predictability is associated with increased reduction **even in word combinations that are not lexicalized**
+- observations -> split into two groups: high and low conditional probabilities
+
+$p=241$
+
+$gallery port$
+$widec$
+![Image](img$h1mb)
+$/widec$
+
+$widec$
+The ten most probable function word sequences in
+context from the lower half of the probability range,
+according to two probability measures. Function words in
+this lower range did show effects of durational shortening
+due to higher probability.
+$/widec$
+$/gallery port$
+
+$reader$
+- Considering first the effects of the preceding word, we found that there was **no
+significant effect of conditional probability on _vowel reduction_** in the low group, but there was a significant effect of conditional probability in the high group.
+- These
+results lend some support for the **influence of lexicalization**.
+- **For _duration_, however,
+conditional probability of the preceding word had a significant effect** for both
+groups, although it did appear to be somewhat stronger for the high group.
+$/reader$
+
+$info$
+The results for following word effects did not support the lexicalization hypothesis. Conditional probability of the following word was just as good a predictor of
+vowel reduction in the low probability group as in the high probability group.
+$/info$
+
+$wide$
+- $result still affected
+$/wide$
+
+$p=242$
+
+#### Conclusions
+
+1. More predictable words are more reduced, even if they are in a
+low probability group and unlikely to be lexically combined with a neighboring
+word
+	- clear evidence for probabilistic relations between words
+2. Particularly for the predictability from the previous word, the high group shows
+a stronger effect of predictability on reduction
+	- suggests there is some reduction in duration due to the **lexicalization** of word pairs
+
+### Effects of predictability on final-t/d content words
+
+----
+$widec$
+Do probabilistic relations also hold for content words?
+$/widec$
+----
+
+#### The final-t/d content word dataset
+
+----
+$widec$
+Variables
+$/widec$
+----
+
+**1.** deletion of final consonant
+- final _t-d_ deletion is defined as **the absence of a pronounced oral stop segment** corresponding to a final _t_ or _d_ in words
+
+**2.** duration in milliseconds
+- duration of the word in milliseconds
+
+$p=243$
+
+$gallery port$
+$widec$
+![Image](img$oaiz)
+$/widec$
+$/gallery port$
+
+#### Control factors
+
+$widec$
+(skipped)
+$/widec$
+
+$p=244$
+
+#### Results
+
+#### Duration
+
+$acco$
+relative frequency
+- strong effect of the relative frequency of the target word
+
+$reader$
+Overall, high frequency words (at the 95th percentile of frequency) were 18%
+shorter than low frequency words (at the 5th percentile).
+$/reader$
+$/acco$
+
+$acco$
+conditional probability next word
+- conditional probability of the target given the next word significantly affected duration
+- => more predictable words were shorter
+
+$reader$
+Words with high
+conditional probability (at the 95th percentile of the conditional probability given
+the next word) were 12% shorter than low conditional probability words (at the 5th
+percentile).
+$/reader$
+$/acco$
+
+$acco$
+conditional probability previous word
+- conditional probability of the target given the previous word significantly affected duration
+- => more predictable words were shorter
+$/acco$
+
+$info$
+Also significant for the joint probability with previous and next word!
+$/info$
+
+#### Deletion
+
+$acco$
+relative frequency
+- strong effect of the relative frequency of the target word
+
+$reader$
+High frequency
+words (at the 95th percentile) were 2.0 times more likely to have deleted final t or
+d than the lowest frequency words (at the 5th percentile).
+$/reader$
+$/acco$
+
+$p=245$
+
+$acco$
+conditional probability next word
+- did **not** significantly affect deletion
+$/acco$
+
+$info$
+We had found in earlier work (Gregory et al. 1999) that deletion was not sensitive
+to predictability effects from the following word. This result was confirmed in our
+current results. Neither the conditional probability of the target word given the next
+word nor the relative frequency of the next word predicted deletion of final t or d.
+$/info$
+
+#### Final-t/d content word dataset: discussion
+
+$acco$
+**1.** content words with higher relative frequencies  
+(= prior probabilities)
+- are shorter and more likely to have deleted final _t_ or _d_
+- (than content words with lower relative frequencies)
+
+$info$
+The effect of target word
+frequency was the strongest overall factor affecting reduction of content words, and
+provides support for the Probabilistic Reduction Hypothesis
+$/info$
+$/acco$
+
+$acco$
+**2.** content words with high conditional probability
+- given previous word: more likely to be shorter
+	- but: *not* more likely to undergo final segment deletion
+$/acco$
+
+$acco$
+**3.** comparison with function words
+- effects of function words are much stronger
+
+$warn$
+Failure to find effects may be due to the smaller number of observations in the content word dataset or the general lower frequencies of content words.
+$/warn$
+$/acco$
+
+$acco$
+**4.** previous-word relative frequency
+- only measure with an effect on deletion
+- high-frequency previous words led to _longer_ target forms and _less_ final-t/d deletion
+$/acco$
+
+$p=246$
+
+$info$
+Another possibility is that the lengthening of content words after frequent previous words is a **prosodic effect**. For example, if the previous word is frequent, it is
+less likely to be stressed or accented, which might raise the probability that the
+current word is stressed or accented, and hence that it is less likely to be reduced.
+
+(this is what I would instinctively guess as well)
+$/info$
+
+$info$
+Prosodic effects might also explain the asymmetric effect of surrounding words
+(i.e. preceding words played little role in final deletion). This likely illustrates that
+not all reduction processes are affected in the same way by probabilistic variables.
+$/info$
+
+### Conclusion
+
+general conclusion
+- we find evidence for the Probabilistic Reduction Hypothesis
+- more probable words are reduced, whether they are content or function words
