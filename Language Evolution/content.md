@@ -337,6 +337,12 @@ $p=219$
 
 ## The origin and subsequent evolution of language
 
+----
+$widec$
+Robin I.M. Dunbar
+$/widec$
+----
+
 ### Why did language evolve?
 
 $p=220$
@@ -386,6 +392,12 @@ $/reader$
 $p=272$
 
 ## From language learning to language evolution
+
+----
+$widec$
+Simon Kirby and Morten H. Christiansen
+$/widec$
+----
 
 ### Introduction
 
@@ -697,7 +709,3 @@ $/widec$
 
 **Evolutionary iterated learning.** The cognitive mechanisms (and therefore prior biases) of an individual language learner are provided through genetic transmission, which necessarily involves selection. The structure of language arises from the interaction of three systems of information transmission.
 $/gallery port$
-
-$p=317$
-
-## Language, learning and evolution
