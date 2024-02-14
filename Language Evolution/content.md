@@ -387,6 +387,317 @@ $p=272$
 
 ## From language learning to language evolution
 
+### Introduction
+
+|animal communication|human communication|
+|---|---|
+|mostly determined by genes|*learnt* to a very high degree|
+
+$wide$
+- $result details of human communication are stored in the **environment**
+$/wide$
+
+$p=273$
+
+$widec$
+$down why?
+$/widec$
+
+size of human language
+- human language cannot fit into a genome
+
+$result language _learning_
+- an important aspect
+- but: also automatically leads to language *variation*
+
+### From universals to universal bias
+
+$p=274$
+
+$reader$
+The environment that the learner interacts with consists of the 'output' of that learning by other individuals.
+$/reader$
+
+#### Constraints on variation
+
+----
+$widec$
+Universal features of language (which constrain it)
+$/widec$
+----
+
+**1.** digital infinity
+- 'small' language inventory allows for an unlimited range of utterances
+
+**2.** compositionality
+- the meaning of an utterance is a function of the meanings of *parts* of that utterance and the way they are put together
+
+$p=275$
+
+**3.** typological properties
+- e.g. branching direction etc.
+
+#### Acquisition as explanation
+
+$p=277$
+
+object of study
+- the set of **constraints** and **preferences** that children have, and which are brought to bear on the task of language learning
+
+### Sequential learning
+
+----
+$widec$
+How do we explain universals that appear to be unique to language?
+$/widec$
+----
+
+#### SRNs and language learning
+
+SRN
+- simple recurrent neural network
+- (nvda. mighty impressive for 2003)
+
+$p=279$
+
+#### SRNs and learning-based constraints
+
+sequence-based learning
+- a SRN is trained on many different types of grammars (different combinations, with one difference every time)
+
+$p=280$
+
+*learnability score*
+- the ability of a network to correctly predict continuation probabilities after being trained on a corpus
+- how well do each of the thirty-two grammars fir the prior bias of an SRN sequential learner?
+
+$result branching consistency
+- a typological property (verb word order structure and pre/postposition parallels)
+- greatly influences the learnability score! ==(Christiansen and Devlin 1997)==
+
+$info$
+This is clearly a striking result. Why postulate a domain-specific constraint if the data that constraint should account for is predicted by a general model of sequential learning?
+$/info$
+
+$p=281$
+
+$info$
+This type of result was also found in an experimental setting (Christiansen and Ellefson 2002).
+$/info$
+
+$wide$
+- $result SRNs mirror learning biases of humans
+$/wide$
+
+$reader$
+What these experiments with ALL [(artificial language learning]) and SRNs show us is that **we should be careful about ascribing universal properties of language to a domain-specific innate bias**. We argue that <span style="color: red;">**an explanation that appeals to non-linguistic biases should be preferred where possible**</span>. Simplistic, all-or-nothing explanations should be avoided, however. 
+$/reader$
+
+$p=282$
+
+### Iterated learning and the origins of structure
+
+$p=283$
+
+$gallery$
+![Image](img$edbz)
+
+**Language learning.** The child's learning mechanisms take linguistic data (utterances) and generate some kind of internal representation of a language. The range of possible languages is determined by the structure of the learning mechanisms (i.e. its prior biases).
+$/gallery$
+
+$widec$
+$down
+
+where do the data to learn from come from?
+$/widec$
+
+#### The ILM
+
+feedback loop
+- the data that make up the input to learning are themselves the output of that same process
+
+$p=284$
+
+$gallery port$
+$widec$
+![Image](img$mqr7)
+$/widec$
+
+**Iterated learning.** The input to learning is the product of the acquired language of others. There are now two dynamical systems that contribute to the range of possible languages: ==individual learning== and ==social/cultural transmission==.
+$/gallery port$
+
+$p=283$
+
+Iterated Learning Model (ILM)
+- a model of language evolution (Kirby and Hurford 2002)
+- a **multi-agent model** -> treats populations as consisting of sets of individuals (agents)
+- each agent learns its behaviour by observing the behaviour of others (and consequently contributed to the experience of other agents' learning)
+
+$p=285$
+
+evolutionary model
+- _dynamic_ behaviour
+- behaviour is not pre-determined, but emerges from the process of repeated use and acquisition from generation to generation
+- ~~biological evolution~~ -> linguistic _transmission_
+
+#### The origins of compositionality
+
+compositionality
+- a unique property of human languages
+- combining signs to create complex meaning
+
+$p=286$
+
+##### Computer modelling
+
+computer modelling
+- 'increasingly popular' (see Kirby 2002 for a review)
+- gives us an easy way to uncover the **relationship between the components** of a complex system (individual learners) and the **emergent outcomes** of their interactions
+
+----
+$widec$
+<span style="color: red;">Typical components of simulation models</span>
+$/widec$
+----
+
+$wide$
+**1.** a population of agents
+$/wide$
+
+**2.** a space of possible signals
+- usually strings of symbols
+
+**3.** a space of possible meanings
+- usually some kind of structured representation, such that some meanings are more similar to each other than others
+
+**4.** a production model
+- this determines how, when prompted with a meaning, an agent uses its knowledge of language to produce a signal
+
+**5.** a learning model
+- the learning model defines how an individual agent acquires its knowledge of language from observing meaning-signal pairs produced by other agents
+
+$warn$
+The fact that the learners are given meanings as well as signals seems unrealistic. Ultimately, simulations of the process of iterated learning will need to enrich the model with *contexts*. Whereas meanings are private and inaccessible to learners, contexts are public and may allow the inference of meanings. See e.g. Steels et al. (200) and Smith (2001) for discussion of these fascinating extensions to the model.
+$/warn$
+
+$p=287$
+
+$result common property of ILM simulations
+- the language of the population persists _only_ by virtue of its **constant use** and **acquisition** by individual agents
+
+----
+$widec$
+Composition of the simulation
+$/widec$
+----
+
+initialisation of a simulation
+- **random language** at first
+- agents initially produce purely random strings of symbols for every meaning that they are prompted with
+- usually highly **unstable**
+
+poverty of the stimulus
+- UG idea: learners are exposed to few input data
+- in the same way: complete coverage of all meanings cannot be assumed
+
+stabilisation
+- eventually, some part of the language will stabilise
+- after this: passed on from generation to generation
+- time for stabilisation depends on particular population's population dynamics
+
+ideal distribution
+- more and more of the language increases in stability, until eventually signals corresponding to the entire meaning space are passed on reliably from generation to generation **without the learner being exposed to the whole language**
+- => final language uses a **compositional system**
+
+$p=287-288$
+
+$reader$
+**Explaining the behaviour of simulations**
+
+How are these languages stable, and why are they compositional?
+
+The initial holistic languages are unstable by virtue of the poverty of the stimulus, which acts as a **bottleneck** on the transmission of language. In the early stages of the simulation, the population is essentially **randomly searching** around the space of possible meaning-string pairs, driven by the learner's failure to generalise (non-randomly) to unheard meanings.
+
+At some point a learner will **infer some form of non-random behaviour** in a speaker and use this to generalize to other meanings. In the first instance, this inference if 'rule-like' behaviour will actually be **ill-founded** (since the speaker will have been behaving randomly). Nevertheless, this learner will now produce utterances that are, to a small extent, non-random.
+$/reader$
+
+$p=288$
+
+chain of generalisation
+- languages generated by a learner who has generalised are *themselves* generalisable by other learners
+- => the aspects of language that are generalisable in this way are **more stable**
+	- better attuned to the acquisition bottleneck
+
+end result
+- movement towards a language made up of generalisations
+- => meanings with internal structure, signals with internal structure
+
+$p=289$
+
+----
+$widec$
+Why do some kinds of holism persist?
+$/widec$
+----
+
+frequency effects
+- added in Kirby (2001)
+- some meanings turn up more frequently than others (built into the simulation)
+- result: a language that utilises both compositional structure and holistic expressions
+
+$result bottleneck explanation
+- frequently used expressions may be faithfully transmitted (even if they are idiosyncratic) because of their **high frequency**
+- infrequent expressions must form part of a larger paradigm
+
+$reader$
+If, for reasons such as language contact of processes of phonological erosion, irregulars make their way into a language, the pressure to regularise them will be strongest in the low-frequency parts of the system.
+$/reader$
+
+$reader$
+An interesting by-product of the introduction of frequency biases to the meaning space is the removal of a fixed endpoint to the simulations. The language in this model is always changing -- but not so much that speaker-to-speaker intelligibility is degraded. This is another way in which these simulation results seem to mirror what we know about language more accurately.
+$/reader$
+
+$p=290$
+
+### Implications and conclusion
+
+[ Population dynamics ]
+|horizontal transmission|vertical transmission|
+|---|---|
+|learners mainly learn from adults|a lot of contact between learners|
+|language changes **slowly**|language changes **fast**|
+|may take many generations to stabilise on a structured system|structure can emerge rapidly|
+
+$p=292$
+
+----
+$widec$
+<span style="color: red;">Three principal assumptions of IL models</span>
+$/widec$
+----
+
+1. agents have structured representations of the world
+2. learners have some way of inferring the meaning of a particular signal
+	- at least some of the time, they can mind read
+3. speakers are inclined to communicate about an open-ended range of topics
+
+$reader$
+By systematically varying the representations of meanings to which the agents in the ILM have access, we are able to see under which circumstances structured mappings between meanings and signals will emerge.
+$/reader$
+
+biological evolution
+- also plays a part, but which part and how much?
+
+$p=239$
+
+$gallery port$
+$widec$
+![Image](img$7gbq)
+$/widec$
+
+**Evolutionary iterated learning.** The cognitive mechanisms (and therefore prior biases) of an individual language learner are provided through genetic transmission, which necessarily involves selection. The structure of language arises from the interaction of three systems of information transmission.
+$/gallery port$
+
 $p=317$
 
 ## Language, learning and evolution
